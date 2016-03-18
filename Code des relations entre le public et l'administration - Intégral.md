@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-03-19
 
 # Dispositions préliminaires
 
@@ -6348,31 +6348,19 @@ Les administrations mentionnées à l'article L. 300-2 peuvent rendre publics le
 ou reçoivent. 
 
 Toutefois, sauf dispositions législatives contraires, les documents administratifs qui comportent des mentions entrant dans
-le champ d'application des articles L. 311-5 et L. 311-6 ou, sans préjudice de l'article 13 de la loi n° 78-753 du 17 juillet
-1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions
-d'ordre administratif, social et fiscal, des données à caractère personnel ne peuvent être rendus publics qu'après avoir fait
-l'objet d'un traitement afin d'occulter ces mentions ou de rendre impossible l'identification des personnes qui y sont
-nommées.
+le champ d'application des articles L. 311-5 et L. 311-6 ou, sans préjudice de l'article L. 322-2, des données à caractère
+personnel ne peuvent être rendus publics qu'après avoir fait l'objet d'un traitement afin d'occulter ces mentions ou de
+rendre impossible l'identification des personnes qui y sont nommées.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 13
-	  - Code des relations entre le public et l'adminis... - art. L300-2 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-5 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 7, al 2, al 3 (VT)
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 2
 
 	**Cité par**:
 
@@ -6385,6 +6373,11 @@ nommées.
 	  - Code des relations entre le public et l'adminis... - art. L563-2 (V)
 	  - Code des relations entre le public et l'adminis... - art. L574-1 (VD)
 	  - Code des relations entre le public et l'adminis... - art. L574-5 (VD)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L300-2
+	  - Code des relations entre le public et l'administration - art. L311-5
 
 
 #### Section 2 : Règles spécifiques aux instructions et circulaires
@@ -6671,6 +6664,738 @@ administrative.
 	  - Code des relations entre le public et l'adminis... - art. R312-8 (VD)
 
 
+## Titre II : LA RÉUTILISATION DES INFORMATIONS PUBLIQUES
+
+### Chapitre Ier : Etendue du droit de réutilisation 
+
+###### Article L321-1
+
+Les informations figurant dans des documents produits ou reçus par les administrations mentionnées à l'article L. 300-2, quel
+que soit le support, peuvent être utilisées par toute personne qui le souhaite à d'autres fins que celles de la mission de
+service public pour les besoins de laquelle les documents ont été produits ou reçus. 
+
+Lorsqu'elles sont mises à disposition sous forme électronique, ces informations le sont, si possible, dans un standard ouvert
+et aisément réutilisable, c'est-à-dire lisible par une machine. 
+
+Les limites et conditions de cette réutilisation sont régies par le présent titre, même si ces informations ont été obtenues
+dans le cadre de l'exercice du droit d'accès aux documents administratifs régi par le titre Ier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 1 juin 1924 - art. 36-4 (V)
+	  - Loi n°2006-686 du 13 juin 2006 - art. 19 (VT)
+	  - Arrêté du 6 février 2009 - art. 8 (M)
+	  - Arrêté du 5 août 2010 - art. 1 (V)
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 5 (V)
+	  - Loi n°2013-907  du 11 octobre 2013 - art. 12 (V)
+	  - Arrêté du 23 juin 2015 - art. 3 (V)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 21
+	  - Code de commerce - art. L123-6 (V)
+	  - Code de l'organisation judiciaire - art. L111-13 (V)
+	  - Code de la route. - art. L330-5 (V)
+	  - Code de la santé publique - art. L1453-1 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L125-12 (Ab)
+	  - Code des relations entre le public et l'adminis... - art. L321-4 (V)
+	  - Code général des collectivités territoriales - art. L1112-23 (V)
+	  - Code électoral - art. LO135-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L300-2
+
+
+###### Article L321-2
+
+Ne sont pas considérées comme des informations publiques, pour l'application du présent titre, les informations contenues
+dans des documents : 
+
+a) Dont la communication ne constitue pas un droit en application du titre Ier ou d'autres dispositions législatives, sauf si
+ces informations font l'objet d'une diffusion publique ; 
+
+b) Ou produits ou reçus par les administrations mentionnées à l'article L. 300-2 dans l'exercice d'une mission de service
+public à caractère industriel ou commercial ; 
+
+c) Ou sur lesquels des tiers détiennent des droits de propriété intellectuelle. 
+
+L'échange d'informations publiques entre les administrations, aux fins de l'exercice de leur mission de service public, ne
+constitue pas une réutilisation au sens du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2013-907  du 11 octobre 2013 - art. 12 (V)
+	  - Code de l'environnement - art. L127-9 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L125-12 (Ab)
+	  - Code général des collectivités territoriales - art. L1112-23 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L300-2
+
+
+### Chapitre II : Règles générales 
+
+###### Article L322-1
+
+Sauf accord de l'administration, la réutilisation des informations publiques est soumise à la condition que ces dernières ne
+soient pas altérées, que leur sens ne soit pas dénaturé et que leurs sources et la date de leur dernière mise à jour soient
+mentionnées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2013-803 du 3 septembre 2013 - art. 4 (V)
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 5 (V)
+	  - Loi n°2013-907  du 11 octobre 2013 - art. 12 (V)
+	  - Code de la santé publique - art. L1453-1 (V)
+	  - Code de la santé publique - art. L1461-2 (V)
+	  - Code des relations entre le public et l'adminis... - art. L326-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. R*322-4 (V)
+	  - Code électoral - art. LO135-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+
+###### Article L322-2
+
+Les informations publiques comportant des données à caractère personnel peuvent faire l'objet d'une réutilisation soit
+lorsque la personne intéressée y a consenti, soit si l'autorité détentrice est en mesure de les rendre anonymes ou, à défaut
+d'anonymisation, si une disposition législative ou réglementaire le permet.
+
+La réutilisation d'informations publiques comportant des données à caractère personnel est subordonnée au respect des
+dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+
+	**Cité par**:
+
+	  - Loi n°2013-907  du 11 octobre 2013 - art. 12 (V)
+	  - Code de la santé publique - art. L1461-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+
+###### Article L322-5
+
+Toute décision défavorable en matière de réutilisation d'informations publiques est notifiée au demandeur sous la forme d'une
+décision écrite motivée comportant l'indication des voies et délais de recours.
+
+Lorsqu'un tiers est titulaire de droits de propriété intellectuelle portant sur un document sur lequel figure une information
+publique, l'administration qui a concouru à l'élaboration de l'information ou qui la détient indique à la personne qui
+demande à la réutiliser l'identité de la personne physique ou morale titulaire de ces droits ou, si celle-ci n'est pas
+connue, l'identité de la personne auprès de laquelle l'information en cause a été obtenue.
+
+Le deuxième alinéa ne s'applique pas aux décisions défavorables opposées par les bibliothèques, y compris les bibliothèques
+universitaires, les musées et les archives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+
+###### Article L322-6
+
+Les administrations qui produisent ou détiennent des informations publiques tiennent à la disposition des usagers un
+répertoire des principaux documents dans lesquels ces informations figurent. 
+
+Les conditions de réutilisation des informations publiques ainsi que, le cas échéant, le montant des redevances prévues aux
+articles L. 324-1 et L. 324-2 et les bases de calcul retenues pour la fixation de ce montant sont rendus publics, dans un
+standard ouvert, par les administrations mentionnées à l'article L. 300-2 qui ont produit ou reçu ces informations publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Code des relations entre le public et l'adminis... - art. L312-1-1 (V)
+	  - Code des relations entre le public et l'adminis... - art. R322-7 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L300-2
+	  - Code des relations entre le public et l'administration - art. L324-1
+
+
+###### Article R*322-4
+
+Le silence gardé par l'administration sur une demande de réutilisation d'informations publiques mentionnée aux articles L.
+322-1, L. 322-2 et L. 325-1 vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Code des relations entre le public et l'adminis... - art. R324-6 (T)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L322-1
+	  - Code des relations entre le public et l'administration - art. L325-1
+
+
+###### Article R322-3
+
+Lorsque la réutilisation n'est possible qu'après anonymisation des données à caractère personnel, l'autorité détentrice y
+procède sous réserve que cette opération n'entraîne pas des efforts disproportionnés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R127-9 (V)
+
+
+###### Article R322-7
+
+Le répertoire prévu à l'article L. 322-6 précise, pour chacun des documents recensés, son titre exact, son objet, la date de
+sa création, les conditions de sa réutilisation et, le cas échéant, la date et l'objet de ses mises à jour. 
+
+Lorsque l'autorité administrative dispose d'un site internet, elle rend le répertoire accessible en ligne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L322-6
+
+
+### Chapitre III : Etablissement d'une licence 
+
+###### Article L323-1
+
+La réutilisation d'informations publiques peut donner lieu à l'établissement d'une licence. Cette licence est obligatoire
+lorsque la réutilisation est soumise au paiement d'une redevance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-1263 du 23 octobre 2014 - art. 1 (V)
+	  - Code de l'environnement - art. L127-7 (V)
+	  - Code de l'environnement - art. L127-9 (V)
+	  - Code de la route. - art. R330-7 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+
+###### Article L323-2
+
+Cette licence fixe les conditions de la réutilisation des informations publiques. Ces conditions ne peuvent apporter de
+restrictions à la réutilisation que pour des motifs d'intérêt général et de façon proportionnée. Elles ne peuvent avoir pour
+objet ou pour effet de restreindre la concurrence.
+
+Les administrations qui élaborent ou détiennent des documents contenant des informations publiques pouvant être réutilisées
+dans les conditions prévues au présent chapitre sont tenues de mettre préalablement des licences types, par voie
+électronique, à la disposition des personnes intéressées par la réutilisation de ces informations.
+
+Les conditions dans lesquelles une offre de licence est proposée au demandeur sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-1263 du 23 octobre 2014 - art. 1 (V)
+	  - Arrêté du 14 avril 2017 - art. 10 (VD)
+	  - Décret n°2017-638 du 27 avril 2017 (V)
+	  - Code de la route. - art. R330-7 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+
+###### Article R*323-5
+
+L'article R. * 311-12 est applicable aux demandes de licence. 
+
+Toutefois, le silence gardé pendant plus d'un mois par une administration de l'Etat ou par un établissement public
+administratif de l'Etat sur une demande tendant à la délivrance d'une licence conforme à une licence type préalablement mise
+à disposition des personnes intéressées et comportant une définition de son objet et de ses bénéficiaires vaut décision
+d'acceptation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. R*311-12
+
+
+###### Article R323-3
+
+Les clauses des licences délivrées par les autorités mentionnées à l'article L. 300-2 doivent porter au moins sur les
+informations faisant l'objet de la réutilisation, leur source et leur date de mise à disposition, le caractère commercial ou
+non de leur réutilisation, ainsi que sur les droits et obligations du licencié, dont le montant de la redevance et les
+modalités de son paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R127-9 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L300-2
+
+
+###### Article R323-4
+
+La demande de licence précise l'objet et la destination, commerciale ou non, de la réutilisation envisagée. 
+
+Elle peut être présentée soit en même temps que la demande d'accès au document, soit ultérieurement. 
+
+La procédure prévue aux articles R. 343-1 à R. 343-5 lui est applicable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. R343-1
+
+
+###### Article R323-6
+
+Le délai mentionné à l'article R. 311-13 s'applique aux demandes de licence. Ce délai peut être prorogé, à titre
+exceptionnel, d'un mois par décision motivée de l'autorité saisie en raison du nombre des demandes qui lui sont adressées ou
+de la complexité de celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. R311-13
+
+
+###### Article R323-7
+
+Les dispositions de l'article R. 311-10 sont applicables lorsque l'information publique est détenue par l'autorité saisie sur
+un support électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. R311-10
+
+
+### Chapitre IV : Redevance 
+
+###### Article L324-1
+
+La réutilisation d'informations publiques est gratuite. Toutefois, les administrations mentionnées à l'article L. 300-2
+peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes propres une part
+substantielle des coûts liés à l'accomplissement de leurs missions de service public. 
+
+Le produit total du montant de cette redevance, évalué sur une période comptable appropriée, ne dépasse pas le montant total
+des coûts liés à la collecte, à la production, à la mise à la disposition du public ou à la diffusion de leurs informations
+publiques. 
+
+Une redevance de réutilisation ne peut être établie pour des informations qui ont fait précédemment l'objet d'un accord
+d'exclusivité prévu au chapitre V.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2013-803 du 3 septembre 2013 - art. 6 (Ab)
+	  - Loi n°2015-1779 du 28 décembre 2015 - art. 10 (V)
+	  - Décret n°2016-592 du 12 mai 2016 (V)
+	  - Décret n°2016-1617 du 29 novembre 2016 (V)
+	  - Code de l'environnement - art. L127-7 (V)
+	  - Code des relations entre le public et l'adminis... - art. L322-6 (V)
+	  - Code des relations entre le public et l'adminis... - art. L324-3 (V)
+	  - Code des relations entre le public et l'adminis... - art. L324-4 (V)
+	  - Code des relations entre le public et l'adminis... - art. R324-4-1 (VD)
+	  - Code des relations entre le public et l'adminis... - art. R324-4-2 (VD)
+	  - Code des relations entre le public et l'adminis... - art. R324-4-4 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L300-2
+
+
+###### Article L324-2
+
+La réutilisation peut également donner lieu au versement d'une redevance lorsqu'elle porte sur des informations issues des
+opérations de numérisation des fonds et des collections des bibliothèques, y compris des bibliothèques universitaires, des
+musées et des archives, et, le cas échéant, sur des informations qui y sont associées lorsque ces dernières sont
+commercialisées conjointement. Le produit total du montant de cette redevance, évalué sur une période comptable appropriée,
+ne dépasse pas le montant total des coûts de collecte, de production, de mise à disposition ou de diffusion, de conservation
+de leurs informations et d'acquisition des droits de propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Code des relations entre le public et l'adminis... - art. R324-4-3 (VD)
+
+
+###### Article L324-3
+
+Le montant des redevances mentionnées aux articles L. 324-1 et L. 324-2 est fixé selon des critères objectifs, transparents,
+vérifiables et non discriminatoires. Ce montant est révisé au moins tous les cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L324-1
+
+
+###### Article L324-4
+
+Les modalités de fixation de ces redevances sont fixées par décret en Conseil d'Etat, après avis de l'autorité compétente. Ce
+décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des
+conditions de leur financement, à établir des redevances en application de l'article L. 324-1. La liste des catégories
+d'administrations est révisée tous les cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Décret n°2016-1036 du 28 juillet 2016 (VD)
+	  - Code des relations entre le public et l'adminis... - art. R324-7 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L324-1
+
+
+###### Article L324-5
+
+Lorsqu'il est envisagé de soumettre au paiement d'une redevance la réutilisation d'informations publiques contenues dans des
+documents produits ou reçus par l'Etat, la liste de ces informations ou catégories d'informations est préalablement fixée par
+décret, après avis de l'autorité compétente. La même procédure est applicable aux établissements publics de l'Etat à
+caractère administratif. La liste des informations ou catégories d'informations est révisée tous les cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Décret n°2016-1617 du 29 novembre 2016 (V)
+	  - Code des relations entre le public et l'adminis... - art. D324-5-1 (VD)
+	  - Code des relations entre le public et l'adminis... - art. R324-6 (T)
+
+
+###### Article R324-6
+
+Sans préjudice de la publication du répertoire mentionné à l'article L. 322-4, la liste mentionnée à l'article L. 324-5 est
+rendue publique sur un site internet créé sous l'autorité du Premier ministre, avec l'indication soit de la personne
+responsable des questions relatives à la réutilisation des informations publiques mentionnée à l'article L. 330-1, soit, pour
+les établissements publics qui ne sont pas tenus de désigner un tel responsable, du service compétent pour recevoir les
+demandes de licence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2016-1564 du 21 novembre 2016 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des relations entre le public et l'adminis... - art. R324-6-1 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L324-5
+	  - Code des relations entre le public et l'administration - art. L330-1
+	  - Code des relations entre le public et l'administration - art. R*322-4
+
+
+###### Article R324-7
+
+L'autorité administrative compétente mentionnée aux articles L. 324-4 et L. 324-5 est le Conseil d'orientation de l'édition
+publique et de l'information administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L324-4
+
+
+### Chapitre V : Droit d'exclusivité 
+
+###### Article L325-1
+
+La réutilisation d'informations publiques ne peut faire l'objet d'un droit d'exclusivité accordé à un tiers, sauf si un tel
+droit est nécessaire à l'exercice d'une mission de service public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2012-1547 du 28 décembre 2012 - art. 7 (V)
+	  - Loi n°2015-1779 du 28 décembre 2015 - art. 10 (V)
+	  - Code de l'environnement - art. L127-7 (V)
+	  - Code des relations entre le public et l'adminis... - art. R*322-4 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+
+###### Article L325-2
+
+Lorsqu'un tel droit est accordé, la période d'exclusivité ne peut dépasser dix ans. Le bien-fondé de l'octroi d'un droit
+d'exclusivité fait l'objet d'un réexamen périodique au moins tous les trois ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Code des relations entre le public et l'adminis... - art. L325-4 (V)
+	  - Code des relations entre le public et l'adminis... - art. R325-5 (V)
+
+
+###### Article L325-3
+
+Lorsqu'un droit d'exclusivité est accordé pour les besoins de la numérisation de ressources culturelles, la période
+d'exclusivité peut, par dérogation, être supérieure à dix ans, sans dépasser quinze ans. Elle doit faire l'objet d'un
+réexamen au cours de la onzième année et ensuite, le cas échéant, lors de la treizième année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+
+###### Article L325-4
+
+Les articles L. 325-2 et L. 325-3 ne s'appliquent pas aux accords d'exclusivité conclus entre personnes publiques dans le
+cadre de leurs missions de service public sur le fondement de dispositions législatives ou réglementaires, dans le respect du
+droit de la concurrence. Ces accords doivent faire l'objet d'un réexamen au cours de la onzième année et ensuite, le cas
+échéant, tous les sept ans.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-650 du 6 juin 2005 - art. 12 (V)
+	  - Code des relations entre le public et l'adminis... - art. R325-5 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L325-2
+
+
+###### Article L325-7
+
+Une copie des ressources numérisées et des données associées est remise gratuitement, dans un standard ouvert et librement
+réutilisable, aux administrations mentionnées à l'article L. 300-2 qui ont accordé le droit d'exclusivité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L127-7 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L300-2
+
+
+###### Article L325-8
+
+Les accords d'exclusivité et leurs avenants sont transparents et rendus publics sous forme électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+
+###### Article R*325-6
+
+Le renouvellement d'un droit d'exclusivité ne peut résulter que d'une décision explicite et motivée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+
+###### Article R325-5
+
+L'autorité qui a accordé un droit d'exclusivité en application de l'article L. 325-2, L. 325-3 ou L. 325-4 procède au
+réexamen de son bien-fondé avant tout renouvellement de celui-ci. 
+
+Le titulaire du droit d'exclusivité est informé de ce réexamen un mois au moins avant l'échéance de ce droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L325-2
+	  - Code des relations entre le public et l'administration - art. L325-4
+
+
+### Chapitre VI : Sanctions 
+
+###### Article L326-1
+
+Toute personne réutilisant des informations publiques en violation des prescriptions mentionnées aux deuxième et troisième
+alinéas du présent article est passible d'une amende prononcée par la commission mentionnée au titre IV. 
+
+Le montant maximum de l'amende est égal à celui prévu par l'article 131-13 du code pénal pour les contraventions de 5e classe
+lorsque des informations publiques ont été réutilisées à des fins non commerciales en méconnaissance des dispositions de
+l'article L. 322-1 ou des conditions de réutilisation prévues par une licence délivrée à cet effet ou en violation de
+l'obligation d'obtenir une licence. 
+
+Lorsque des informations publiques ont été réutilisées à des fins commerciales en méconnaissance des dispositions de
+l'article L. 322-1 ou des conditions de réutilisation prévues par une licence délivrée à cet effet ou en violation de
+l'obligation d'obtenir une licence, le montant de l'amende est proportionné à la gravité du manquement commis et aux
+avantages tirés de ce manquement. 
+
+Pour l'application du troisième alinéa, le montant de l'amende prononcée pour sanctionner un premier manquement ne peut
+excéder 150 000 euros. En cas de manquement réitéré dans les cinq années à compter de la date à laquelle la sanction
+précédemment prononcée est devenue définitive, il ne peut excéder 300 000 euros ou, s'agissant d'une entreprise, 5 % du
+chiffre d'affaires hors taxes du dernier exercice clos dans la limite de 300 000 euros. 
+
+La commission mentionnée au titre IV peut, à la place ou en sus de l'amende, interdire à l'auteur d'une infraction la
+réutilisation d'informations publiques pendant une durée maximale de deux ans. Cette durée peut être portée à cinq ans en cas
+de récidive dans les cinq ans suivant le premier manquement. 
+
+La commission peut également ordonner la publication de la sanction aux frais de celui qui en est l'objet selon des modalités
+fixées par décret en Conseil d'Etat. 
+
+Les amendes sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13
+	  - Code des relations entre le public et l'administration - art. L322-1
+
+	**Cité par**:
+
+	  - Code des relations entre le public et l'adminis... - art. L341-1 (V)
+
+
+### Chapitre VII : Dispositions diverses 
+
+###### Article L327-1
+
+Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art.
+
+
 ## Titre III : LES PERSONNES RESPONSABLES DE L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET DES QUESTIONS RELATIVES À LA RÉUTILISATION DES INFORMATIONS PUBLIQUES
 
 ###### Article L330-1
@@ -6814,29 +7539,18 @@ Commission d'accès aux documents administratifs.
 La Commission d'accès aux documents administratifs est une autorité administrative indépendante.
 
 Elle est chargée de veiller au respect de la liberté d'accès aux documents administratifs et aux archives publiques ainsi
-qu'à l'application du chapitre II de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
-relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal relatif à la
-réutilisation des informations publiques dans les conditions prévues par cette loi, par le présent livre et par le titre Ier
-du livre II du code du patrimoine.
+qu'à l'application du titre II du présent livre  dans les conditions prévues par le présent livre et par le titre Ier du
+livre II du code du patrimoine.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978
-	  - Code du patrimoine
-
-	**Anciens textes**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 20, al. 1, al. 2 (Ab)
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 2
 
 	**Cité par**:
 
@@ -6845,13 +7559,17 @@ du livre II du code du patrimoine.
 	  - Code des relations entre le public et l'adminis... - art. L562-8 (VD)
 	  - Code des relations entre le public et l'adminis... - art. L574-1 (VD)
 
+	**Cite**:
+
+	  - Code du patrimoine
+
 
 ### Chapitre Ier : Composition et fonctionnement de la Commission d'accès aux documents administratifs
 
 ###### Article D341-10
 
-Le président, le président suppléant, le rapporteur général et le rapporteur général adjoint de la commission sont rémunérés
-sous forme d'indemnités forfaitaires mensuelles. 
+Le président, le président suppléant, le rapporteur général et   les rapporteurs généraux adjoints de la commission sont
+rémunérés sous forme d'indemnités forfaitaires mensuelles. 
 
 Les membres de la commission, autres que le président, mentionnés aux 1°, 3°, 4°, 5°, 6°, 7° et 8° de l'article L. 341-1
 ainsi que leurs suppléants sont rémunérés sous forme d'une indemnité forfaitaire pour chacune des séances auxquelles ils sont
@@ -6859,9 +7577,9 @@ effectivement présents.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2005-1755 du 30 décembre 2005 - art. 9 (Ab)
+	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 	**Cité par**:
 
@@ -6871,17 +7589,13 @@ effectivement présents.
 	  - Code des relations entre le public et l'adminis... - art. D562-11 (VD)
 	  - Code des relations entre le public et l'adminis... - art. D574-4 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 4
 
 	**Cite**:
 
-	  - Code des relations entre le public et l'adminis... - art. L341-1 (VD)
+	  - Code des relations entre le public et l'administration - art. L341-1
 
 
 ###### Article D341-11
@@ -7039,9 +7753,8 @@ est renouvelable.
 La commission comprend en outre, avec voix consultative, le Défenseur des droits ou son représentant. 
 
 Un commissaire du Gouvernement, désigné par le Premier ministre, siège auprès de la commission et assiste à ses
-délibérations, sauf lorsque la commission se prononce en application des dispositions de l'article 18 de la loi n° 78-753 du
-17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses
-dispositions d'ordre administratif, social et fiscal ou de l'article L. 342-3 du présent code. 
+délibérations, sauf lorsque la commission se prononce en application des dispositions de l'article L. 326-1 ou de l'article
+L. 342-3 du présent code. 
 
 En cas de partage égal des voix, celle du président de la commission est prépondérante. 
 
@@ -7050,22 +7763,13 @@ conditions dans lesquels la commission peut délibérer en formation restreinte.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 18
-	  - Code des relations entre le public et l'adminis... - art. L342-3 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 23 (Ab)
-
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 2
 
 	**Cité par**:
 
@@ -7075,6 +7779,10 @@ conditions dans lesquels la commission peut délibérer en formation restreinte.
 	  - Code des relations entre le public et l'adminis... - art. L562-8 (VD)
 	  - Code des relations entre le public et l'adminis... - art. L574-1 (VD)
 	  - Code des relations entre le public et l'adminis... - art. R341-5 (VD)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L342-3
 
 
 ###### Article R341-2
@@ -7214,35 +7922,31 @@ membres de la commission.
 
 ###### Article R341-7
 
-Le président de la commission est assisté par un rapporteur général, un rapporteur général adjoint, des rapporteurs et
+Le président de la commission est assisté par un rapporteur général,   deux rapporteurs généraux adjoints, des rapporteurs et
 chargés de mission permanents et des rapporteurs non permanents qu'il désigne, dans la limite des crédits ouverts à cet effet
 au budget des services généraux du Premier ministre au titre de la Commission d'accès aux documents administratifs, parmi les
 membres du Conseil d'Etat, les magistrats, les fonctionnaires de catégorie A, les agents contractuels de l'Etat de niveau
 équivalent et les personnes justifiant d'une qualification dans les domaines relevant de la compétence de la commission et
-titulaires d'un des diplômes permettant d'accéder à un corps de catégorie A.
+titulaires d'un des diplômes permettant d'accéder à un corps de catégorie A. 
 
 Le rapporteur général anime et contrôle l'activité des rapporteurs. A cet égard, il examine toutes les demandes dont la
 commission est saisie et s'assure de leur traitement dans les délais prévus. Il peut présenter des observations orales à
-chaque séance.
+chaque séance. 
 
-Le rapporteur général adjoint assiste et supplée le rapporteur général en tant que de besoin.
+Les rapporteurs généraux adjoints assistent et suppléent  le rapporteur général en tant que de besoin. 
 
 La commission dispose de services placés sous l'autorité d'un secrétaire général qui en assure le fonctionnement et la
 coordination.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1755 du 30 décembre 2005 - art. 6 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 4
 
 	**Cité par**:
 
@@ -7281,23 +7985,19 @@ Le président de la commission ordonnance les dépenses.
 
 ###### Article R341-9
 
-Le président peut déléguer sa signature au rapporteur général et au rapporteur général adjoint pour les réponses aux demandes
-d'avis et aux consultations et au secrétaire général pour ce qui concerne le fonctionnement administratif et financier de la
-commission.
+Le président peut déléguer sa signature au rapporteur général et   aux rapporteurs généraux adjoints pour les réponses aux
+demandes d'avis et aux consultations et au secrétaire général pour ce qui concerne le fonctionnement administratif et
+financier de la commission.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1755 du 30 décembre 2005 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 4
 
 
 ###### Article R341-16
@@ -7509,35 +8209,28 @@ vigueur la législation civile française dans les départements du Bas-Rhin, du
 ###### Article L342-3
 
 La commission, lorsqu'elle est saisie par une administration mentionnée à l'article L. 300-2, peut, au terme d'une procédure
-contradictoire, infliger à l'auteur d'un manquement aux prescriptions du chapitre II de la loi n° 78-753 du 17 juillet 1978
-portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre
-administratif, social et fiscal relatif à la réutilisation des informations publiques les sanctions prévues par l'article 18
-de cette même loi.
+contradictoire, infliger à l'auteur d'un manquement aux prescriptions du titre II du présent livre  les sanctions prévues par
+l'article L. 326-1.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978
-	  - Code des relations entre le public et l'adminis... - art. L300-2 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 22 (Ab)
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code des relations entre le public et l'adminis... - art. L341-1 (V)
 	  - Code des relations entre le public et l'adminis... - art. R341-5 (VD)
 	  - Code des relations entre le public et l'adminis... - art. R343-6 (VD)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L300-2
 
 
 ###### Article R342-4
@@ -9979,20 +10672,25 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
       </tr>
       <tr>
         <td>
-D. 341-7 
+
+D. 341-10 
 
 </td>
-        <td>Résultant du décret n° 2015-1342 
+        <td>
+
+Résultant du décret n° 2016-308
 
 </td>
       </tr>
       <tr>
         <td>
-D. 341-10 à D. 341-15
+
+D. 341-11 à D. 341-15 
 
 </td>
-        <td>Résultant du décret n° 2015-1342
+        <td>
 
+Résultant du décret n° 2015-1342
 </td>
       </tr>
     </tbody>
@@ -10002,17 +10700,16 @@ D. 341-10 à D. 341-15
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. D341-10 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-7 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Décret n°2016-308 du 17 mars 2016
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 ###### Article L552-8
@@ -10026,118 +10723,278 @@ droite du même tableau.
 <table>
     <tbody>
       <tr>
-        <th>Dispositions applicables 
+        <th>DISPOSITIONS APPLICABLES 
 
 </th>
-        <th>Dans leur rédaction 
+        <th>DANS LEUR RÉDACTION 
 
 </th>
       </tr>
       <tr>
-        <td align="center" valign="bottom">
-        </td><td align="center" valign="bottom">
+        <td align="left">
+        </td><td align="left">
       </td></tr>
       <tr>
         <td>
+
 L. 300-1 et L. 300-2 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>
+
+Résultant de l'ordonnance n° 2015-1341
 
 </td>
       </tr>
       <tr>
-        <td>
-        </td><td>
+        <td align="left">
+        </td><td align="left">
       </td></tr>
       <tr>
-        <td>Titre Ier 
+        <td>
+
+Titre Ier 
 
 </td>
         <td align="left">
       </td></tr>
       <tr>
         <td>
+
 L. 311-1 à L. 311-9 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
         <td>
+
 L. 311-14 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
         <td>
-L. 312-1 et L. 312-2 
+
+L. 312-1 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>
+
+Résultant de l'ordonnance n° 2016-307
 
 </td>
       </tr>
       <tr>
         <td>
-        </td><td>
+
+L. 312-2 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2015-1341 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
       </td></tr>
       <tr>
-        <td>Titre III 
+        <td>
+
+Titre II 
 
 </td>
         <td align="left">
       </td></tr>
       <tr>
         <td>
+
+L. 321-1 et L. 321-2 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 322-1 et L. 322-2 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 322-5 et L. 322-6 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 323-1 et L. 323-2 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 324-1 à L. 324-5 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 325-1 à L. 325-4 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 325-7 et L. 325-8 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+L. 326-1 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+        </td><td align="left">
+      </td></tr>
+      <tr>
+        <td>
+
+Titre III 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
+
 L. 330-1 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td>
-        </td><td>
+        <td align="left">
+        </td><td align="left">
       </td></tr>
       <tr>
-        <td>Titre IV 
+        <td>
+
+Titre IV 
 
 </td>
         <td align="left">
       </td></tr>
       <tr>
         <td>
+
 L. 340-1 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
 
 </td>
       </tr>
       <tr>
         <td>
+
 L. 341-1 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341 
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 
 
 </td>
       </tr>
       <tr>
         <td>
-L. 342-1 à L. 342-3
+
+L. 342-1 et L. 342-2 
 
 </td>
-        <td>Résultant de l'ordonnance n° 2015-1341
+        <td>
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
+      </tr>
+      <tr>
+        <td>
+
+L. 342-3 
+
+</td>
+        <td>
+
+Résultant de l'ordonnance n° 2016-307 </td>
       </tr>
     </tbody>
   </table>
@@ -10147,22 +11004,15 @@ L. 342-1 à L. 342-3
 	**Cite**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015
-	  - Code des relations entre le public et l'adminis... - art. L300-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-14 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L312-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L330-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L340-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L341-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L342-1 (VD)
+	  - Ordonnance n°2016-307 du 17 mars 2016
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 3
 
 
 ###### Article R*552-9
@@ -10190,7 +11040,7 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
       </td></tr>
       <tr>
         <td>
-R.*311-12 
+R. *311-12 
 
 </td>
         <td>Résultant du décret n° 2015-1342 
@@ -10202,6 +11052,33 @@ R.*311-12
         </td><td align="left">
       </td></tr>
       <tr>
+        <td>Titre II 
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. * 322-4 </td>
+        <td>Résultant du décret n° 2016-308
+</td>
+      </tr>
+      <tr>
+        <td>R. * 323-5 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. * 325-6 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
         <td align="left">Titre IV 
 
 </td>
@@ -10209,7 +11086,7 @@ R.*311-12
       </td></tr>
       <tr>
         <td>
-R.*343-4
+R. *343-4 
 
 </td>
         <td>Résultant du décret n° 2015-1342
@@ -10223,17 +11100,18 @@ R.*343-4
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R*311-12 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R*343-4 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Décret n°2016-308 du 17 mars 2016
+	  - Code des relations entre le public et l'administration - art. R*311-12
+	  - Code des relations entre le public et l'administration - art. R*343-4
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 ###### Article R552-10
@@ -10291,6 +11169,53 @@ R. 312-3 à R. 312-7
         </td><td>
       </td></tr>
       <tr>
+        <td>Titre II 
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 322-3 </td>
+        <td>Résultant du décret n° 2016-308
+</td>
+      </tr>
+      <tr>
+        <td>R. 322-7 
+
+</td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 323-3 et R. 323-4 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 323-6 et R. 323-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 324-6 et R. 324-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 325-5 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
         <td align="left">Titre III 
 
 </td>
@@ -10325,11 +11250,18 @@ R. 341-2 à R. 341-6
 </td>
       </tr>
       <tr>
-        <td>
-R. 341-8 et R. 341-9 
+        <td>R. 341-7 
 
 </td>
-        <td>Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2016-308 </td>
+      </tr>
+      <tr>
+        <td>R. 341-8 </td>
+        <td>Résultant du décret n° 2015-1342 </td>
+      </tr>
+      <tr>
+        <td>R. 341-9 </td>
+        <td>Résultant du décret n° 2016-308 
 
 </td>
       </tr>
@@ -10362,7 +11294,7 @@ R. 343-1 à R. 343-3
       </tr>
       <tr>
         <td>
-R. 343-5 à R. 343-12
+R. 343-5 à R. 343-12 
 
 </td>
         <td>Résultant du décret n° 2015-1342
@@ -10376,25 +11308,25 @@ R. 343-5 à R. 343-12
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R311-10 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R311-13 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R312-3 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R330-2 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-16 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-2 (T)
-	  - Code des relations entre le public et l'adminis... - art. R341-8 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R342-4 (T)
-	  - Code des relations entre le public et l'adminis... - art. R343-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R343-5 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Décret n°2016-308 du 17 mars 2016
+	  - Code des relations entre le public et l'administration - art. R311-10
+	  - Code des relations entre le public et l'administration - art. R311-13
+	  - Code des relations entre le public et l'administration - art. R312-3
+	  - Code des relations entre le public et l'administration - art. R330-2
+	  - Code des relations entre le public et l'administration - art. R341-16
+	  - Code des relations entre le public et l'administration - art. R341-2
+	  - Code des relations entre le public et l'administration - art. R342-4
+	  - Code des relations entre le public et l'administration - art. R343-1
+	  - Code des relations entre le public et l'administration - art. R343-5
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 ##### Sous-section 4 : Dispositions applicables du livre IV
@@ -11478,20 +12410,25 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
       </tr>
       <tr>
         <td align="justify">
-D. 341-7 
+
+D. 341-10 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td align="justify">
+
+Résultant du décret n° 2016-308
 
 </td>
       </tr>
       <tr>
         <td align="justify">
-D. 341-10 à D. 341-15
+
+D. 341-11 à D. 341-15 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342
+        <td align="justify">
 
+Résultant du décret n° 2015-1342
 </td>
       </tr>
     </tbody>
@@ -11501,17 +12438,16 @@ D. 341-10 à D. 341-15
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. D341-10 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-7 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Décret n°2016-308 du 17 mars 2016
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 ###### Article L562-8
@@ -11524,126 +12460,278 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 <table>
     <tbody>
       <tr>
-        <th>Dispositions applicables 
+        <th>DISPOSITIONS APPLICABLES 
 
 </th>
-        <th>Dans leur rédaction 
+        <th>DANS LEUR RÉDACTION 
 
 </th>
       </tr>
       <tr>
-        <td valign="bottom" align="center">
-
-</td>
-        <td valign="bottom" align="center">
-      </td></tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
+
 L. 300-1 et L. 300-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify">
-      </td></tr>
-      <tr>
-        <td align="justify">Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
+
+Titre Ier 
+
+</td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
 L. 311-1 à L. 311-9 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
+
 L. 311-14 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
         <td align="justify">
-L. 312-1 et L. 312-2 
 
-</td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
 
-</td>
-        <td align="justify">
-      </td></tr>
-      <tr>
-        <td align="justify">Titre III 
+L. 312-1 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307
+
+</td>
+      </tr>
       <tr>
         <td align="justify">
+
+L. 312-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+Titre II 
+
+</td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 321-1 et L. 321-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 322-1 et L. 322-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 322-5 et L. 322-6 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 323-1 et L. 323-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 324-1 à L. 324-5 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 325-1 à L. 325-4 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 325-7 et L. 325-8 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 326-1 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+Titre III 
+
+</td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
 L. 330-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify">
-      </td></tr>
-      <tr>
-        <td align="justify">Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
+
+Titre IV 
+
+</td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
 L. 340-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
+
 L. 341-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
-L. 342-1 à L. 342-3
+
+L. 342-1 et L. 342-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 342-3 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 </td>
       </tr>
     </tbody>
   </table>
@@ -11653,22 +12741,15 @@ L. 342-1 à L. 342-3
 	**Cite**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015
-	  - Code des relations entre le public et l'adminis... - art. L300-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-14 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L312-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L330-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L340-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L341-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L342-1 (VD)
+	  - Ordonnance n°2016-307 du 17 mars 2016
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 3
 
 
 ###### Article R*562-9
@@ -11692,8 +12773,8 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
         <td align="left">Titre Ier 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td>
 R.*311-12 
@@ -11705,14 +12786,44 @@ R.*311-12
       </tr>
       <tr>
         <td>
-        </td><td>
-      </td></tr>
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>Titre II 
+
+</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>R.* 322-4 </td>
+        <td>Résultant du décret n° 2016-308 </td>
+      </tr>
+      <tr>
+        <td>R.* 323-5 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R.* 325-6 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+</td>
+        <td> </td>
+      </tr>
       <tr>
         <td align="left">Titre IV 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td>
 R.*343-4
@@ -11729,17 +12840,17 @@ R.*343-4
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R*311-12 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R*343-4 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Code des relations entre le public et l'administration - art. R*311-12
+	  - Code des relations entre le public et l'administration - art. R*343-4
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 ###### Article R562-10
@@ -11793,6 +12904,53 @@ R. 312-3 à R. 312-7
 </td>
       </tr>
       <tr>
+        <td>
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>Titre II 
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 322-3 </td>
+        <td>Résultant du décret n° 2016-308
+</td>
+      </tr>
+      <tr>
+        <td>R. 322-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 323-3 et R. 323-4 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 323-6 et R. 323-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 324-6 et R. 324-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 325-5 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
         <td align="justify">
 
 </td>
@@ -11835,11 +12993,22 @@ R. 341-2 à R. 341-6
 </td>
       </tr>
       <tr>
-        <td align="justify">
-R. 341-8 et R. 341-9 
+        <td>R. 341-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">R. 341-8 
 
 </td>
         <td align="justify">Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 341-9 </td>
+        <td>Résultant du décret n° 2016-308 
 
 </td>
       </tr>
@@ -11872,7 +13041,7 @@ R. 343-1 à R. 343-3
       </tr>
       <tr>
         <td align="justify">
-R. 343-5 à R. 343-12
+R. 343-5 à R. 343-12 
 
 </td>
         <td align="justify">Résultant du décret n° 2015-1342
@@ -11886,25 +13055,25 @@ R. 343-5 à R. 343-12
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R311-10 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R311-13 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R312-3 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R330-2 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-16 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-2 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-8 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R342-4 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R343-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R343-5 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Décret n°2016-308 du 17 mars 2016
+	  - Code des relations entre le public et l'administration - art. R311-10
+	  - Code des relations entre le public et l'administration - art. R311-13
+	  - Code des relations entre le public et l'administration - art. R312-3
+	  - Code des relations entre le public et l'administration - art. R330-2
+	  - Code des relations entre le public et l'administration - art. R341-16
+	  - Code des relations entre le public et l'administration - art. R341-2
+	  - Code des relations entre le public et l'administration - art. R342-4
+	  - Code des relations entre le public et l'administration - art. R343-1
+	  - Code des relations entre le public et l'administration - art. R343-5
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 ##### Sous-section 4 : Dispositions applicables du livre IV
@@ -12875,13 +14044,10 @@ D. 231-2 et D. 231-3
 ###### Article L573-1
 
 En application de l'article 4-1 de la loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis et Futuna le statut de
-territoire d'outre-mer, sont applicables de plein droit dans les îles Wallis et Futuna aux relations entre le public, d'une
-part, et l'Etat, ses établissements publics ainsi que les autres organismes et personnes de droit public et de droit privé
-chargés par lui d'une mission de service public administratif et, le cas échéant, industriel et commercial, d'autre part : 
-
-1° Les articles L. 221-9 à L. 221-10, L. 221-14 et L. 221-17 ; 
-
-2° Les articles R. 221-12, R. 221-13, R. 221-15 et R. 221-16.
+territoire d'outre-mer, les articles L. 221-9, L. 221-10, L. 221-14 et L. 221-17 sont applicables de plein droit dans les
+îles Wallis et Futuna aux relations entre le public, d'une part, et l'Etat, ses établissements publics ainsi que les autres
+organismes et personnes de droit public et de droit privé chargés par lui d'une mission de service public administratif et,
+le cas échéant, industriel et commercial, d'autre part.
 
 **Liens relatifs à cet article**
 
@@ -12892,9 +14058,13 @@ chargés par lui d'une mission de service public administratif et, le cas éché
 	  - Code des relations entre le public et l'administration - art. L221-17
 	  - Code des relations entre le public et l'administration - art. L221-9
 
+	**Codifié par**:
+
+	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+
 	**Modifié par**:
 
-	  - Loi n°2015-1713 du 22 décembre 2015 - art. 1
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 	**Cité par**:
 
@@ -13174,6 +14344,24 @@ vigueur sont régies par la loi n° 61-814 du 29 juillet 1961.
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 
+###### Article R573-1-1
+
+Les articles R. 221-11, R. 221-15 et R. 221-16 s'appliquent de plein droit dans les îles Wallis et Futuna, dans les mêmes
+conditions que les articles mentionnés à l'article L. 573-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L573-1
+	  - Code des relations entre le public et l'administration - art. R221-11
+	  - Code des relations entre le public et l'administration - art. R221-15
+
+
 ### Chapitre IV : Dispositions spécifiques relatives au livre III
 
 #### Section 1 : Dispositions relatives à l'Etat et aux organismes placés sous son contrôle
@@ -13197,20 +14385,25 @@ commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droi
       </tr>
       <tr>
         <td align="justify">
-D. 341-7 
+
+D. 341-10 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td align="justify">
+
+Résultant du décret n° 2016-308
 
 </td>
       </tr>
       <tr>
         <td align="justify">
-D. 341-10 à D. 341-15
+
+D. 341-11 à D. 341-15 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342
+        <td align="justify">
 
+Résultant du décret n° 2015-1342
 </td>
       </tr>
     </tbody>
@@ -13220,17 +14413,16 @@ D. 341-10 à D. 341-15
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. D341-10 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-7 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Décret n°2016-308 du 17 mars 2016
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 ###### Article L574-1
@@ -13243,114 +14435,278 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
 <table>
     <tbody>
       <tr>
-        <th>Dispositions applicables 
+        <th>DISPOSITIONS APPLICABLES 
 
 </th>
-        <th>Dans leur rédaction 
+        <th>DANS LEUR RÉDACTION 
 
 </th>
       </tr>
       <tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
         <td align="justify">
+
 L. 300-1 et L. 300-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341
 
 </td>
       </tr>
       <tr>
-        <td align="justify">Titre Ier 
-
-</td>
-        <td align="justify">
-      </td></tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
+
+Titre Ier 
+
+</td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
 L. 311-1 à L. 311-9 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
+
 L. 311-14 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
-      </tr>
-      <tr>
         <td align="justify">
-L. 312-1 et L. 312-2 
 
-</td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
 
-</td>
-        <td align="justify">
-      </td></tr>
-      <tr>
-        <td align="justify">Titre III 
+L. 312-1 
 
 </td>
-        <td align="left">
-      </td></tr>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307
+
+</td>
+      </tr>
       <tr>
         <td align="justify">
+
+L. 312-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+Titre II 
+
+</td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 321-1 et L. 321-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 322-1 et L. 322-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 322-5 et L. 322-6 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 323-1 et L. 323-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 324-1 à L. 324-5 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 325-1 à L. 325-4 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 325-7 et L. 325-8 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 326-1 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+Titre III 
+
+</td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
 L. 330-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify">
-      </td></tr>
-      <tr>
-        <td align="justify">Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
+        <td align="left"> </td>
+        <td align="left"> </td>
+      </tr>
       <tr>
         <td align="justify">
+
+Titre IV 
+
+</td>
+        <td align="left"> </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
 L. 340-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
+
 L. 341-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
 
 </td>
       </tr>
       <tr>
         <td align="justify">
-L. 342-1 à L. 342-3
+
+L. 342-1 et L. 342-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 
 
 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 342-3 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 </td>
       </tr>
     </tbody>
   </table>
@@ -13360,22 +14716,15 @@ L. 342-1 à L. 342-3
 	**Cite**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015
-	  - Code des relations entre le public et l'adminis... - art. L300-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-14 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L312-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L330-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L340-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L341-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L342-1 (VD)
+	  - Ordonnance n°2016-307 du 17 mars 2016
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 3
 
 
 ###### Article R*574-2
@@ -13403,10 +14752,41 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
       </td></tr>
       <tr>
         <td>
-R.*311-12 
+R. *311-12 
 
 </td>
         <td>Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>Titre II 
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. * 322-4 </td>
+        <td>Résultant du décret n° 2016-308
+</td>
+      </tr>
+      <tr>
+        <td>R. * 323-5 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. * 325-6 
+
+</td>
+        <td>Résultant du décret n° 2016-308 
 
 </td>
       </tr>
@@ -13422,7 +14802,7 @@ R.*311-12
       </td></tr>
       <tr>
         <td>
-R.*343-4
+R. *343-4 
 
 </td>
         <td>Résultant du décret n° 2015-1342
@@ -13436,17 +14816,18 @@ R.*343-4
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R*311-12 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R*343-4 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Décret n°2016-308 du 17 mars 2016
+	  - Code des relations entre le public et l'administration - art. R*311-12
+	  - Code des relations entre le public et l'administration - art. R*343-4
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 ###### Article R574-3
@@ -13500,6 +14881,55 @@ R. 312-3 à R. 312-9
 </td>
       </tr>
       <tr>
+        <td>
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>Titre II 
+
+</td>
+        <td>
+      </td></tr>
+      <tr>
+        <td>R. 322-3 
+
+</td>
+        <td>Résultant du décret n° 2016-308
+</td>
+      </tr>
+      <tr>
+        <td>R. 322-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 323-3 et R. 323-4 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 323-6 et R. 323-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 324-6 et R. 324-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 325-5 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
         <td align="justify">
 
 </td>
@@ -13542,11 +14972,22 @@ R. 341-2 à R. 341-6
 </td>
       </tr>
       <tr>
-        <td align="justify">
-R. 341-8 et R. 341-9 
+        <td>R. 341-7 </td>
+        <td>Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">R. 341-8 
 
 </td>
         <td align="justify">Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 341-9 </td>
+        <td>Résultant du décret n° 2016-308 
 
 </td>
       </tr>
@@ -13579,7 +15020,7 @@ R. 343-1 à R. 343-3
       </tr>
       <tr>
         <td align="justify">
-R. 343-5 à R. 343-12
+R. 343-5 à R. 343-12 
 
 </td>
         <td align="justify">Résultant du décret n° 2015-1342
@@ -13593,25 +15034,25 @@ R. 343-5 à R. 343-12
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R311-10 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R311-13 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R312-3 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R330-2 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-16 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-2 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R341-8 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R342-4 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R343-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R343-5 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Décret n°2016-308 du 17 mars 2016
+	  - Code des relations entre le public et l'administration - art. R311-10
+	  - Code des relations entre le public et l'administration - art. R311-13
+	  - Code des relations entre le public et l'administration - art. R312-3
+	  - Code des relations entre le public et l'administration - art. R330-2
+	  - Code des relations entre le public et l'administration - art. R341-16
+	  - Code des relations entre le public et l'administration - art. R341-2
+	  - Code des relations entre le public et l'administration - art. R342-4
+	  - Code des relations entre le public et l'administration - art. R343-1
+	  - Code des relations entre le public et l'administration - art. R343-5
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 #### Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle
@@ -13619,76 +15060,376 @@ R. 343-5 à R. 343-12
 ###### Article L574-5
 
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables aux relations entre
-le public et aux relations entre le public, d'une part, et la collectivité de Wallis-et-Futuna, ses établissements publics et
-les autres organismes et personnes de droit public et de droit privé chargés par cette collectivité d'une mission de service
-public administratif et, le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne
-de droite du même tableau. 
+le public, d'une part, et la collectivité de Wallis-et-Futuna, ses établissements publics et les autres organismes et
+personnes de droit public et de droit privé chargés par cette collectivité d'une mission de service public administratif et,
+le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même
+tableau. 
 
 <table>
-      <tbody><tr>
-        <th>
+    <tbody>
+      <tr>
+        <th>DISPOSITIONS APPLICABLES 
 
-Dispositions applicables </th>
-        <th>
+</th>
+        <th>DANS LEUR RÉDACTION 
 
-Dans leur rédaction </th>
+</th>
       </tr>
       <tr>
         <td align="justify">
 
 L. 300-1 et L. 300-2 
+
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 
+Résultant de l'ordonnance n° 2015-1341
+
 </td>
       </tr>
       <tr>
         <td align="justify">
 
 L. 311-1 à L. 311-3 
+
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="justify">
 
 L. 311-5 à L. 311-9 
+
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341 </td>
+Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="justify">
 
-L. 312-1 et L. 312-2
+L. 312-1 
+
 </td>
         <td align="justify">
 
-Résultant de l'ordonnance n° 2015-1341</td>
+Résultant de l'ordonnance n° 2016-307
+
+</td>
       </tr>
-    </tbody></table>
+      <tr>
+        <td align="justify">
+
+L. 312-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2015-1341 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 321-1 et L. 321-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 322-1 et L. 322-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 322-5 et L. 322-6 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 323-1 et L. 323-2 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 324-1 à L. 324-5 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 325-1 à L. 325-4 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 325-7 et L. 325-8 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+L. 326-1 
+
+</td>
+        <td align="justify">
+
+Résultant de l'ordonnance n° 2016-307 </td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015
-	  - Code des relations entre le public et l'adminis... - art. L300-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-1 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L311-5 (VD)
-	  - Code des relations entre le public et l'adminis... - art. L312-1 (VD)
+	  - Ordonnance n°2016-307 du 17 mars 2016
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 3
+
+
+###### Article R*574-5-1
+
+Les dispositions du livre III mentionnées dans la colonne de gauche  du tableau ci-après sont applicables aux relations entre
+le public,  d'une part, et la collectivité de Wallis-et-Futuna, ses établissements  publics et les autres organismes et
+personnes de droit public et de  droit privé chargés par cette collectivité d'une mission de service  public administratif
+et, le cas échéant, industriel et commercial,  d'autre part, dans leur rédaction indiquée dans la colonne de droite du  même
+tableau. 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+TITRE II 
+
+</th>
+        <th>
+
+</th>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. * 322-4 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-308
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. * 323-5 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. * 325-6 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-308 </td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-308 du 17 mars 2016
+
 	**Créé par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
+
+
+###### Article R574-5-2
+
+Les dispositions du livre III mentionnées dans la colonne de gauche  du tableau ci-après sont applicables aux relations entre
+le public,  d'une part, et la collectivité de Wallis-et-Futuna, ses établissements  publics et les autres organismes et
+personnes de droit public et de  droit privé chargés par cette collectivité d'une mission de service  public administratif
+et, le cas échéant, industriel et commercial,  d'autre part, dans leur rédaction indiquée dans la colonne de droite du  même
+tableau. 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+TITRE II 
+
+</td>
+        <td align="left">
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 322-3 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-308
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 322-7 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 323-3 et R. 323-4 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 323-6 et R. 323-7 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 324-6 et R. 324-7 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-308 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+R. 325-5 
+
+</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-308 </td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-308 du 17 mars 2016
+
+	**Créé par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 5
 
 
 #### Section 3 : Dispositions d'adaptation
