@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-05-26
 
 # Dispositions préliminaires
 
@@ -2277,20 +2277,21 @@ vocation à rendre des avis sur des projets de texte ou de décision même si el
 Les dispositions du présent chapitre ne s'appliquent ni aux commissions administratives à caractère consultatif composées
 exclusivement d'agents de l'Etat, ni aux instances d'étude ou d'expertise, ni aux organes créés au sein des établissements
 publics administratifs de l'Etat ou des services à compétence nationale pour assister leurs autorités compétentes dans
-l'exercice de leurs missions.
+l'exercice de leurs missions. Elles ne s'appliquent pas non plus aux comités constitués pour entendre les personnes
+susceptibles d'être nommées à certains emplois publics.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°58-1270 du 22 décembre 1958 (V)
-	  - Loi n°83-634 du 13 juillet 1983 - art. 9 (M)
-	  - Code de la défense. - art. L4124-1 (M)
-	  - Code de la défense. - art. R4124-1 (V)
+	  - Ordonnance n°58-1270 du 22 décembre 1958
+	  - Loi n°83-634 du 13 juillet 1983 - art. 9
+	  - Code de la défense. - art. L4124-1
+	  - Code de la défense. - art. R4124-1
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2006-672 du 8 juin 2006 - art. 1 (VT)
+	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
 	**Cité par**:
 
@@ -2321,13 +2322,9 @@ l'exercice de leurs missions.
 	  - Code rural - art. D653-1 (V)
 	  - Code rural - art. D721-9 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-663 du 24 mai 2016 - art. 2
 
 
 #### Section 2 : Durée maximale d'existence
