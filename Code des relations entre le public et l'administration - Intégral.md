@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-11-07
 
 # Dispositions préliminaires
 
@@ -616,6 +616,65 @@ d'exercer les droits prévus au chapitre V de la même loi, si cela est possible
 	  - Loi n°2016-1321 du 7 octobre 2016 - art. 58
 
 
+###### Article R112-9-1
+
+Pour exercer son droit de saisir une administration par voie électronique, toute personne s'identifie auprès de cette
+administration dans le respect des modalités d'utilisation des téléservices définies en application du deuxième alinéa de
+l'article L. 112-9. 
+
+A cet effet, elle indique dans son envoi, s'il s'agit d'une entreprise, son numéro d'inscription au répertoire des
+entreprises et de leurs établissements, s'il s'agit d'une association, son numéro d'inscription au répertoire national des
+associations et, dans les autres cas, ses nom et prénom et ses adresses postale et électronique. 
+
+Les modalités peuvent également permettre l'utilisation d'un identifiant propre à la personne qui s'adresse à
+l'administration ou celle d'autres moyens d'identification électronique dès lors que ceux-ci sont acceptés par
+l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1411 du 20 octobre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-911 du 9 mai 2017 - art. 1
+	  - Code de la route. - art. R322-10 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L112-9
+
+
+###### Article R112-9-2
+
+L'administration informe le public des téléservices qu'elle met en place afin que le droit pour celui-ci de saisir
+l'administration par voie électronique puisse s'exercer. Cette information figure dans les modalités d'utilisation
+mentionnées au deuxième alinéa de l'article L. 112-9 et peut en outre être portée à la connaissance du public par tout
+moyen. 
+
+A défaut d'information sur le ou les téléservices, le public peut saisir l'administration par tout type d'envoi
+électronique. 
+
+Les téléservices peuvent prendre la forme d'une téléprocédure ou d'une procédure de saisine électronique, soit par formulaire
+de contact, soit par une adresse électronique destinée à recevoir les envois du public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1411 du 20 octobre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-911 du 9 mai 2017 - art. 2 (V)
+	  - Arrêté du 30 mai 2017 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L112-9
+
+
 ##### Sous-section 2 : Délivrance d'un accusé de réception par l'administration
 
 ###### Article L112-11
@@ -712,6 +771,103 @@ implicite.
 	**Cite**:
 
 	  - Code des relations entre le public et l'adminis... - art. L112-11 (V)
+
+
+###### Article R112-11-1
+
+L'accusé de réception électronique prévu à l'article L. 112-11 comporte les mentions suivantes : 
+
+1° La date de réception de l'envoi électronique effectué par la personne ; 
+
+2° La désignation du service chargé du dossier, ainsi que son adresse électronique ou postale et son numéro de téléphone. 
+
+S'il s'agit d'une demande, l'accusé de réception indique en outre si la demande est susceptible de donner lieu à une décision
+implicite d'acceptation ou à une décision implicite de rejet ainsi que la date à laquelle, à défaut d'une décision expresse,
+et sous réserve que la demande soit complète, celle-ci sera réputée acceptée ou rejetée. 
+
+Dans le premier cas, l'accusé de réception mentionne la possibilité offerte au demandeur de recevoir l'attestation prévue à
+l'article L. 232-3. Dans le second cas, il mentionne les délais et les voies de recours à l'encontre de la décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1411 du 20 octobre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 30 mars 2017 - art. 3 (V)
+	  - Arrêté du 30 mars 2017 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L112-11
+	  - Code des relations entre le public et l'administration - art. L232-3
+
+
+###### Article R112-11-2
+
+Lorsque l'accusé de réception électronique n'est pas instantané, un accusé d'enregistrement électronique, mentionnant la date
+de réception de l'envoi, est instantanément envoyé à l'intéressé ou, en cas d'impossibilité, dans un délai d'un jour ouvré à
+compter de la réception. 
+
+L'accusé de réception électronique est envoyé au plus tard dans un délai de dix jours ouvrés à compter de la réception de
+l'envoi de l'intéressé. Ce délai ne s'applique qu'à compter de la saisine, au besoin par application de l'article L. 114-2,
+de l'administration compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1411 du 20 octobre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-696 du 2 mai 2017 - art. 2
+	  - Code de commerce - art. R123-30-11 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L114-2
+
+
+###### Article R112-11-3
+
+L'accusé de réception électronique et l'accusé d'enregistrement électronique sont adressés à l'intéressé, sauf mention d'une
+autre adresse donnée à cette fin, à l'adresse électronique qu'il a utilisée pour effectuer son envoi. 
+
+Les modalités d'utilisation mentionnées au deuxième alinéa de l'article L. 112-9 précisent les adresses électroniques
+utilisées pour l'envoi des accusés de réception et d'enregistrement électroniques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1411 du 20 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L112-9
+
+
+###### Article R112-11-4
+
+Lorsqu'une saisine par voie électronique est incomplète, l'administration indique à l'intéressé, dans l'accusé de réception
+électronique ou dans un envoi complémentaire, les pièces et informations manquantes exigées par les textes législatifs et
+réglementaires en vigueur ainsi que le délai fixé pour la réception de celles-ci. 
+
+L'administration lui indique en même temps le délai prévu, selon le cas, au deuxième ou au troisième alinéa de l'article L.
+114-5, au terme duquel la demande est réputée acceptée ou rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1411 du 20 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L114-5
 
 
 ##### Sous-section 3 : Certification de la date d'envoi
@@ -10496,15 +10652,43 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
       </td></tr>
       <tr>
         <td>
+
 R. 112-4 et R. 112-5 
 
 </td>
-        <td>Résultant du décret n° 2015-1342 
+        <td>
+
+Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
         <td>
+
+R. 112-9-1 et R. 112-9-2 
+
+</td>
+        <td>
+
+Résultant du décret n° 2016-1411 du 20 octobre 2016 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 112-11-1 à R. 112-11-4 
+
+</td>
+        <td>
+
+Résultant du décret n° 2016-1411 du 20 octobre 2016 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
 R. 113-5 à R. 113-11 
 
 </td>
@@ -10513,17 +10697,20 @@ R. 113-5 à R. 113-11
 </td>
       </tr>
       <tr>
-        <td align="left">
-        </td><td align="left">
+        <td>
+        </td><td>
       </td></tr>
       <tr>
-        <td align="left">Titre III 
+        <td align="left">
+
+Titre III 
 
 </td>
         <td align="left">
       </td></tr>
       <tr>
         <td>
+
 R. 134-3 à R. 134-30 
 
 </td>
@@ -10533,6 +10720,7 @@ R. 134-3 à R. 134-30
       </tr>
       <tr>
         <td>
+
 R. 134-32
 
 </td>
@@ -10547,19 +10735,19 @@ R. 134-32
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R112-4 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R113-5 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R134-3 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Code des relations entre le public et l'administration - art. R112-4
+	  - Code des relations entre le public et l'administration - art. R113-5
+	  - Code des relations entre le public et l'administration - art. R134-3
+	  - Code des relations entre le public et l'administration - art. R134-32
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-1411 du 20 octobre 2016 - art. 2
 
 
 ##### Sous-section 2 : Dispositions applicables du livre II
@@ -12230,54 +12418,82 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 </th>
       </tr>
       <tr>
-        <td align="left">Titre Ier 
+        <td align="left">
+
+Titre Ier 
 
 </td>
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
+        <td>
+
 R. 112-4 et R. 112-5 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+
+R. 112-9-1 et R. 112-9-2 
+
+</td>
+        <td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 112-11-1 à R. 112-11-4 
+
+</td>
+        <td>
+
+Résultant du décret n° 2016-1411 du 20 octobre 2016 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
 R. 113-5 à R. 113-11 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
-        </td><td align="justify">
+        <td>
+        </td><td>
       </td></tr>
       <tr>
-        <td align="left">Titre III 
+        <td align="left">
+
+Titre III 
 
 </td>
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
+        <td>
+
 R. 134-3 à R. 134-30 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+
 R. 134-32
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342
+        <td>Résultant du décret n° 2015-1342
 
 </td>
       </tr>
@@ -12288,19 +12504,19 @@ R. 134-32
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R112-4 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R113-5 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R134-3 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Code des relations entre le public et l'administration - art. R112-4
+	  - Code des relations entre le public et l'administration - art. R113-5
+	  - Code des relations entre le public et l'administration - art. R134-3
+	  - Code des relations entre le public et l'administration - art. R134-32
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-1411 du 20 octobre 2016 - art. 2
 
 
 ##### Sous-section 2 : Dispositions applicables du livre II
@@ -14022,65 +14238,92 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
 </th>
       </tr>
       <tr>
-        <td align="left">Titre Ier 
+        <td align="left">
+
+Titre Ier 
 
 </td>
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
+        <td>
+
 R. 112-4 et R. 112-5 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+
+R. 112-9-1 et R. 112-9-2 
+
+</td>
+        <td>Résultant du décret n° 2016-1411 du 20 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 112-11-1 à R. 112-11-4 
+
+</td>
+        <td>
+
+Résultant du décret n° 2016-1411 du 20 octobre 2016 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
 R. 113-5 à R. 113-11 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify">
+        <td>
+        </td><td>
       </td></tr>
       <tr>
-        <td align="left">Titre III 
+        <td align="left">
+
+Titre III 
 
 </td>
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
+        <td>
+
 R. 133-3 à R. 133-13 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+
 R. 134-3 à R. 134-30 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+
 R. 134-32
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342
+        <td>Résultant du décret n° 2015-1342
 
 </td>
       </tr>
@@ -14091,20 +14334,20 @@ R. 134-32
 
 	**Cite**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R112-4 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R113-5 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R133-13 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R134-3 (VD)
-	  - Code des relations entre le public et l'adminis... - art. R134-32 (VD)
+	  - Décret n°2015-1342 du 23 octobre 2015
+	  - Code des relations entre le public et l'administration - art. R112-4
+	  - Code des relations entre le public et l'administration - art. R113-5
+	  - Code des relations entre le public et l'administration - art. R133-3
+	  - Code des relations entre le public et l'administration - art. R134-3
+	  - Code des relations entre le public et l'administration - art. R134-32
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-1411 du 20 octobre 2016 - art. 2
 
 
 ###### Article R572-6
