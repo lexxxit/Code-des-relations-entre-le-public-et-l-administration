@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2016-11-07
+Version Consolidée au 2016-11-20
 
 # Dispositions préliminaires
 
@@ -9380,8 +9380,8 @@ extracontractuelle sont soumis, avant une instance juridictionnelle, à une proc
 
 ###### Article L422-1
 
-Ainsi qu'il est dit à l'article L. 211-4 du code de justice administrative, une mission de conciliation peut être organisée
-par les chefs de juridiction dans les tribunaux administratifs et les cours administratives d'appel.
+Ainsi qu'il est dit à l'article L. 213-5 du code de justice administrative, une mission de médiation peut être organisée par
+les chefs de juridiction dans les tribunaux administratifs et les cours administratives d'appel.
 
 **Liens relatifs à cet article**
 
@@ -9389,19 +9389,15 @@ par les chefs de juridiction dans les tribunaux administratifs et les cours admi
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-	**Cite**:
-
-	  - Code de justice administrative - art. L211-4
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
 
 
 ###### Article L422-2
 
-Ainsi qu'il est dit aux articles L. 771-3 et suivants du code de justice administrative, les juridictions régies par ce code
-peuvent ordonner une médiation en vue de parvenir au règlement de certains différends transfrontaliers.
+Ainsi qu'il est dit aux articles L. 213-7 à L. 213-10 du code de justice administrative, les juridictions régies par ce code
+peuvent ordonner une médiation en vue de parvenir au règlement de certains différends.
 
 **Liens relatifs à cet article**
 
@@ -9409,13 +9405,9 @@ peuvent ordonner une médiation en vue de parvenir au règlement de certains dif
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-	**Cite**:
-
-	  - Code de justice administrative - art. L771-3
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
 
 
 ### Chapitre III : Transaction
