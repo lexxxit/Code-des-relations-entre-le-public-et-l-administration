@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2016-11-20
+Version Consolidée au 2016-11-24
 
 # Dispositions préliminaires
 
@@ -7463,7 +7463,7 @@ caractère administratif. La liste des informations ou catégories d'information
 	  - Code des relations entre le public et l'adminis... - art. R324-6 (T)
 
 
-###### Article R324-6
+###### Article R324-6-1
 
 Sans préjudice de la publication du répertoire mentionné à l'article L. 322-4, la liste mentionnée à l'article L. 324-5 est
 rendue publique sur un site internet créé sous l'autorité du Premier ministre, avec l'indication soit de la personne
@@ -7475,21 +7475,15 @@ demandes de licence.
 
 	**Créé par**:
 
-	  - Décret n°2016-308 du 17 mars 2016 - art.
+	  - Décret n°2016-1564 du 21 novembre 2016 - art. 4
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Décret n°2016-1564 du 21 novembre 2016 - art. 4
+	  - Code de l'environnement - art. R127-9 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des relations entre le public et l'adminis... - art. R324-6-1 (V)
-
-	**Cite**:
-
-	  - Code des relations entre le public et l'administration - art. L324-5
-	  - Code des relations entre le public et l'administration - art. L330-1
-	  - Code des relations entre le public et l'administration - art. R*322-4
+	  - Code des relations entre le public et l'adminis... - art. R324-6 (T)
 
 
 ###### Article R324-7
@@ -8105,7 +8099,7 @@ dans un collège unique, sur l'initiative conjointe de leurs présidents, lorsqu
 	  - Loi n°2016-1321 du 7 octobre 2016 - art. 28
 
 
-###### Article R341-2
+###### Article R341-2-1
 
 La commission se réunit, selon le cas, en formation plénière ou restreinte, sur convocation de son président.
 
@@ -8113,31 +8107,13 @@ La convocation précise l'ordre du jour.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1755 du 30 décembre 2005 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-1564 du 21 novembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-1564 du 21 novembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code des relations entre le public et l'adminis... - art. R341-2-1 (V)
-
-	**Cité par**:
-
-	  - Code des relations entre le public et l'adminis... - art. R552-10 (VT)
-	  - Code des relations entre le public et l'adminis... - art. R562-10 (V)
-	  - Code des relations entre le public et l'adminis... - art. R574-3 (V)
+	  - Code des relations entre le public et l'adminis... - art. R341-2 (T)
 
 
 ###### Article R341-3
@@ -8215,6 +8191,34 @@ l'autorité qui a saisi la commission ou de la personne mise en cause.
 
 	  - Code des relations entre le public et l'adminis... - art. L341-1 (VD)
 	  - Code des relations entre le public et l'adminis... - art. L342-3 (VD)
+
+
+###### Article R341-5-1
+
+La commission peut donner délégation à son président pour émettre en son nom un avis sur les demandes dont elle est saisie en
+application des articles L. 342-1 et L. 342-2 ou répondre en son nom à une demande de consultation dont elle est saisie en
+application de l'article R. 342-4-1, dans les cas suivants :
+
+1° La commission n'est manifestement pas compétente ;
+
+2° La demande d'avis est manifestement irrecevable ;
+
+3° Le document ou les informations sollicités n'existent pas ;
+
+4° La demande dont le rejet motive la saisine de la commission pour avis est satisfaite au cours de l'instruction de la
+demande d'avis ;
+
+5° La demande d'avis ou de consultation n'appelle manifestement, dans les matières ou pour les catégories de documents
+déterminées par la commission, que la reprise de la jurisprudence administrative ou d'une doctrine de la commission.
+
+Le président peut toutefois, dans le champ des attributions dont l'exercice lui a été délégué, laisser à la commission le
+soin de se prononcer elle-même sur une demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1564 du 21 novembre 2016 - art. 2
 
 
 ###### Article R341-6
@@ -8325,19 +8329,18 @@ financier de la commission.
 La commission établit son règlement intérieur qui, notamment, fixe les conditions de son fonctionnement et précise les règles
 de procédure applicables devant elle.
 
+Ce règlement intérieur mentionne  notamment les attributions dont la commission décide, conformément au  dernier alinéa de
+l'article L. 341-1 et à l'article R. 341-5-1, de  déléguer l'exercice à son président.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1755 du 30 décembre 2005 - art. 15 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2015-1342 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-1564 du 21 novembre 2016 - art. 3
 
 	**Cité par**:
 
@@ -8568,7 +8571,7 @@ Lorsque la commission est consultée sur un projet de loi ou de décret, son avi
 	  - Loi n°2016-1321 du 7 octobre 2016 - art. 13
 
 
-###### Article R342-4
+###### Article R342-4-1
 
 La commission peut être consultée par les autorités mentionnées à l'article L. 300-2 sur toutes questions relatives à
 l'application des titres Ier, II et IV du présent livre et du titre Ier du livre II du code du patrimoine. 
@@ -8578,35 +8581,13 @@ accompagnées, le cas échéant, du ou des documents sur lesquels l'autorité so
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2005-1755 du 30 décembre 2005 - art. 27 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-1564 du 21 novembre 2016 - art. 4
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-1564 du 21 novembre 2016 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code des relations entre le public et l'adminis... - art. R342-4-1 (V)
-
-	**Cité par**:
-
-	  - Code des relations entre le public et l'adminis... - art. R552-10 (VT)
-	  - Code des relations entre le public et l'adminis... - art. R562-10 (V)
-	  - Code des relations entre le public et l'adminis... - art. R574-3 (V)
-
-	**Cite**:
-
-	  - Code des relations entre le public et l'administration - art. L300-2
+	  - Code des relations entre le public et l'adminis... - art. R342-4 (T)
 
 
 ###### Article R342-5
@@ -11462,206 +11443,142 @@ R. *343-4
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie
 française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 <table>
-    <tbody>
-      <tr>
-        <th>DISPOSITIONS APPLICABLES 
-
-</th>
-        <th>DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="left">Titre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-R. 311-10 et R. 311-11 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-R. 311-13 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-R. 312-3 à R. 312-7 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td>Titre II 
-
-</td>
-        <td>
-      </td></tr>
-      <tr>
-        <td>R. 322-3 </td>
-        <td>Résultant du décret n° 2016-308
-</td>
-      </tr>
-      <tr>
-        <td>R. 322-7 
-
-</td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 323-3 et R. 323-4 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 323-6 et R. 323-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 324-6 et R. 324-7 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 325-5 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-R. 330-2 à R. 330-4 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-        </td><td>
-      </td></tr>
-      <tr>
-        <td align="left">Titre IV 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td>
-R. 341-2 à R. 341-6 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>R. 341-7 
-
-</td>
-        <td>Résultant du décret n° 2016-308 </td>
-      </tr>
-      <tr>
-        <td>R. 341-8 </td>
-        <td>Résultant du décret n° 2015-1342 </td>
-      </tr>
-      <tr>
-        <td>R. 341-9 </td>
-        <td>Résultant du décret n° 2016-308 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-R. 341-16 et R. 341-17 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-R. 342-4 et R. 342-5 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-R. 343-1 à R. 343-3 
-
-</td>
-        <td>Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-R. 343-5 à R. 343-12 
-
-</td>
-        <td>Résultant du décret n° 2015-1342
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+  <tbody>
+    <tr>
+      <td align="center">DISPOSITIONS APPLICABLES</td>
+      <td align="center">DANS LEUR RÉDACTION</td>
+    </tr>
+    <tr>
+      <td align="left">Titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 311-10 et R. 311-11</td>
+      <td align="left">Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">R. 311-13</td>
+      <td align="left">Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">R. 312-3 à R. 312-7</td>
+      <td align="left">Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 322-3</td>
+      <td align="left">Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td align="left">R. 322-7</td>
+      <td align="left">Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td align="left">R. 323-3 et R. 323-4</td>
+      <td align="left">Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td align="left">R. 323-6 et R. 323-7</td>
+      <td align="left">Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td align="left">R. 324-6-1</td>
+      <td align="left">Résultant du décret n° 2016-1564</td>
+    </tr>
+    <tr>
+      <td align="left">R. 324-7</td>
+      <td align="left">Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td align="left">R. 325-5</td>
+      <td align="left">Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 330-2 à R. 330-4</td>
+      <td align="left">Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 341-2-1</td>
+      <td align="left">Résultant du décret n° 2016-1564</td>
+    </tr>
+    <tr>
+      <td align="left">R. 341-3 à R. 341-5</td>
+      <td align="left">Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">R. 341-5-1</td>
+      <td align="left">Résultant du décret n° 2016-1564</td>
+    </tr>
+    <tr>
+      <td>R. 341-6</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">R. 341-7</td>
+      <td align="left">Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td align="left">R. 341-8</td>
+      <td align="left">Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">R. 341-9</td>
+      <td align="left">Résultant du décret n° 2016-308</td>
+    </tr>
+    <tr>
+      <td align="left">R. 341-16</td>
+      <td align="left">Résultant du décret n° 2016-1564</td>
+    </tr>
+    <tr>
+      <td>R. 341-17</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">R. 342-4-1</td>
+      <td align="left">Résultant du décret n° 2016-1564</td>
+    </tr>
+    <tr>
+      <td>R. 342-5</td>
+      <td>Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">R. 343-1 à R. 343-3</td>
+      <td align="left">Résultant du décret n° 2015-1342</td>
+    </tr>
+    <tr>
+      <td align="left">R. 343-5 à R. 343-12</td>
+      <td align="left">Résultant du décret n° 2015-1342</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015
-	  - Décret n°2016-308 du 17 mars 2016
-	  - Code des relations entre le public et l'administration - art. R311-10
-	  - Code des relations entre le public et l'administration - art. R311-13
-	  - Code des relations entre le public et l'administration - art. R312-3
-	  - Code des relations entre le public et l'administration - art. R330-2
-	  - Code des relations entre le public et l'administration - art. R341-16
-	  - Code des relations entre le public et l'administration - art. R341-2
-	  - Code des relations entre le public et l'administration - art. R342-4
-	  - Code des relations entre le public et l'administration - art. R343-1
-	  - Code des relations entre le public et l'administration - art. R343-5
 
 	**Codifié par**:
 
@@ -11669,7 +11586,7 @@ R. 343-5 à R. 343-12
 
 	**Modifié par**:
 
-	  - Décret n°2016-308 du 17 mars 2016 - art. 5
+	  - Décret n°2016-1564 du 21 novembre 2016 - art. 5
 
 
 ##### Sous-section 4 : Dispositions applicables du livre IV
@@ -13235,37 +13152,35 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 311-10 et R. 311-11 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 311-13 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 312-3 à R. 312-7 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
         <td>
-
-</td>
-        <td>
+        </td><td>
       </td></tr>
       <tr>
         <td>Titre II 
@@ -13297,7 +13212,13 @@ R. 312-3 à R. 312-7
 </td>
       </tr>
       <tr>
-        <td>R. 324-6 et R. 324-7 </td>
+        <td>R. 324-6-1 </td>
+        <td>Résultant du décret n° 2016-1564 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 324-7 </td>
         <td>Résultant du décret n° 2016-308 
 
 </td>
@@ -13309,10 +13230,8 @@ R. 312-3 à R. 312-7
 </td>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify">
+        <td>
+        </td><td>
       </td></tr>
       <tr>
         <td align="left">Titre III 
@@ -13321,19 +13240,17 @@ R. 312-3 à R. 312-7
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 330-2 à R. 330-4 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify">
+        <td>
+        </td><td>
       </td></tr>
       <tr>
         <td align="left">Titre IV 
@@ -13342,13 +13259,34 @@ R. 330-2 à R. 330-4
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
-R. 341-2 à R. 341-6 
+        <td>R. 341-2-1</td>
+        <td>Résultant du décret n° 2016-1564 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+      </tr>
+      <tr>
+        <td>
+
+R. 341-3 à R. 341-5
 
 </td>
+        <td align="left" valign="middle">Résultant du décret n° 2015-1342  </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 341-5-1
+
+</td>
+        <td>Résultant du décret n° 2016-1564  </td>
+      </tr>
+      <tr>
+        <td>
+
+R. 341-6 
+
+</td>
+        <td>Résultant du décret n° 2015-1342 </td>
       </tr>
       <tr>
         <td>R. 341-7 </td>
@@ -13357,10 +13295,10 @@ R. 341-2 à R. 341-6
 </td>
       </tr>
       <tr>
-        <td align="justify">R. 341-8 
+        <td>R. 341-8 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
@@ -13371,38 +13309,54 @@ R. 341-2 à R. 341-6
 </td>
       </tr>
       <tr>
-        <td align="justify">
-R. 341-16 et R. 341-17 
+        <td>
+
+R. 341-16 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-R. 342-4 et R. 342-5 
-
-</td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2016-1564 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+
+R. 341-17 
+
+</td>
+        <td>Résultant du décret n° 2015-1342  </td>
+      </tr>
+      <tr>
+        <td>R. 342-4-1</td>
+        <td>
+
+Résultant du décret n° 2016-1564
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 342-5</td>
+        <td>
+
+Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
 R. 343-1 à R. 343-3 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 343-5 à R. 343-12 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342
+        <td>Résultant du décret n° 2015-1342
 
 </td>
       </tr>
@@ -13431,7 +13385,7 @@ R. 343-5 à R. 343-12
 
 	**Modifié par**:
 
-	  - Décret n°2016-308 du 17 mars 2016 - art. 5
+	  - Décret n°2016-1564 du 21 novembre 2016 - art. 5
 
 
 ##### Sous-section 4 : Dispositions applicables du livre IV
@@ -15228,37 +15182,35 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 311-10 et R. 311-11 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 311-13 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 312-3 à R. 312-9 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
         <td>
-
-</td>
-        <td>
+        </td><td>
       </td></tr>
       <tr>
         <td>Titre II 
@@ -15292,22 +15244,30 @@ R. 312-3 à R. 312-9
 </td>
       </tr>
       <tr>
-        <td>R. 324-6 et R. 324-7 </td>
-        <td>Résultant du décret n° 2016-308 
+        <td>R. 324-6-1</td>
+        <td>Résultant du décret n° 2016-1564 
 
 </td>
       </tr>
       <tr>
-        <td>R. 325-5 </td>
-        <td>Résultant du décret n° 2016-308 
+        <td>
+
+R. 324-7 
+
+</td>
+        <td>Résultant du décret n° 2016-308 </td>
+      </tr>
+      <tr>
+        <td>R. 325-5</td>
+        <td>
+
+Résultant du décret n° 2016-308 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify">
+        <td>
+        </td><td>
       </td></tr>
       <tr>
         <td align="left">Titre III 
@@ -15316,19 +15276,17 @@ R. 312-3 à R. 312-9
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 330-2 à R. 330-4 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify">
+        <td>
+        </td><td>
       </td></tr>
       <tr>
         <td align="left">Titre IV 
@@ -15337,11 +15295,32 @@ R. 330-2 à R. 330-4
         <td align="left">
       </td></tr>
       <tr>
-        <td align="justify">
-R. 341-2 à R. 341-6 
+        <td>
+
+R. 341-2-1
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2016-1564 
+
+</td>
+      </tr>
+      <tr>
+        <td>R. 341-3 à R. 341-5 </td>
+        <td>Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+R. 341-5-1
+
+</td>
+        <td>Résultant du décret n° 2016-1564 </td>
+      </tr>
+      <tr>
+        <td>R. 341-6 </td>
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
@@ -15352,10 +15331,10 @@ R. 341-2 à R. 341-6
 </td>
       </tr>
       <tr>
-        <td align="justify">R. 341-8 
+        <td>R. 341-8 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
@@ -15366,38 +15345,46 @@ R. 341-2 à R. 341-6
 </td>
       </tr>
       <tr>
-        <td align="justify">
-R. 341-16 et R. 341-17 
-
-</td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>R. 341-16</td>
+        <td>Résultant du décret n° 2016-1564 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
-R. 342-4 et R. 342-5 
+        <td>
+
+R. 341-17 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342  </td>
+      </tr>
+      <tr>
+        <td>R. 342-4-1</td>
+        <td>Résultant du décret n° 2016-1564 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>R. 342-5 </td>
+        <td>Résultant du décret n° 2015-1342 
+
+</td>
+      </tr>
+      <tr>
+        <td>
 R. 343-1 à R. 343-3 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342 
+        <td>Résultant du décret n° 2015-1342 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 R. 343-5 à R. 343-12 
 
 </td>
-        <td align="justify">Résultant du décret n° 2015-1342
+        <td>Résultant du décret n° 2015-1342
 
 </td>
       </tr>
@@ -15426,7 +15413,7 @@ R. 343-5 à R. 343-12
 
 	**Modifié par**:
 
-	  - Décret n°2016-308 du 17 mars 2016 - art. 5
+	  - Décret n°2016-1564 du 21 novembre 2016 - art. 5
 
 
 #### Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle
@@ -15686,10 +15673,10 @@ Résultant du décret n° 2016-308 </td>
 
 ###### Article R574-5-2
 
-Les dispositions du livre III mentionnées dans la colonne de gauche  du tableau ci-après sont applicables aux relations entre
-le public,  d'une part, et la collectivité de Wallis-et-Futuna, ses établissements  publics et les autres organismes et
-personnes de droit public et de  droit privé chargés par cette collectivité d'une mission de service  public administratif
-et, le cas échéant, industriel et commercial,  d'autre part, dans leur rédaction indiquée dans la colonne de droite du  même
+Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables aux relations entre
+le public, d'une part, et la collectivité de Wallis-et-Futuna, ses établissements publics et les autres organismes et
+personnes de droit public et de droit privé chargés par cette collectivité d'une mission de service public administratif et,
+le cas échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même
 tableau. 
 
 <table>
@@ -15717,72 +15704,80 @@ TITRE II
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 
 R. 322-3 
 
 </td>
-        <td align="justify">
+        <td>
 
-Résultant du décret n° 2016-308
+Résultant du décret n° 2016-308 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 
 R. 322-7 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2016-308 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 
 R. 323-3 et R. 323-4 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2016-308 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 
 R. 323-6 et R. 323-7 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2016-308 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 
-R. 324-6 et R. 324-7 
+R. 324-6-1 
 
 </td>
-        <td align="justify">
+        <td>
 
-Résultant du décret n° 2016-308 
+Résultant du décret n° 2016-1564
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+
+R. 324-7 
+
+</td>
+        <td>Résultant du décret n° 2016-308 </td>
+      </tr>
+      <tr>
+        <td>
 
 R. 325-5 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2016-308 </td>
       </tr>
@@ -15791,13 +15786,9 @@ Résultant du décret n° 2016-308 </td>
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°2016-308 du 17 mars 2016
-
-	**Créé par**:
-
-	  - Décret n°2016-308 du 17 mars 2016 - art. 5
+	  - Décret n°2016-1564 du 21 novembre 2016 - art. 5
 
 
 #### Section 3 : Dispositions d'adaptation
