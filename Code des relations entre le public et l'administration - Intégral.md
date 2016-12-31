@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-01 00:00:01 +0100
 
 # Dispositions préliminaires
 
@@ -11599,10 +11599,26 @@ DANS LEUR RÉDACTION
       <tr>
         <td align="left">
 
+D. 312-1-1-1 et D. 312-1-4 
+
+</td>
+        <td>
+
+Résultant du décret n° 2016-1922 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
 D. 324-5-1 
 
 </td>
-        <td align="left">Résultant du décret n° 2016-1617 </td>
+        <td align="left">
+
+Résultant du décret n° 2016-1617 
+
+</td>
       </tr>
       <tr>
         <td>
@@ -11625,6 +11641,7 @@ D. 341-11 à D. 341-15
         <td>
 
 Résultant du décret n° 2015-1342
+
 </td>
       </tr>
     </tbody>
@@ -11637,6 +11654,7 @@ Résultant du décret n° 2015-1342
 	  - Décret n°2015-1342 du 23 octobre 2015 (V)
 	  - Décret n°2016-308 du 17 mars 2016 (V)
 	  - Décret n°2016-1617 du 29 novembre 2016 (V)
+	  - Décret n°2016-1922 du 28 décembre 2016 (V)
 
 	**Codifié par**:
 
@@ -11644,7 +11662,7 @@ Résultant du décret n° 2015-1342
 
 	**Modifié par**:
 
-	  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
+	  - Décret n°2016-1922 du 28 décembre 2016 - art. 2
 
 
 ###### Article L552-8
@@ -13389,30 +13407,51 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 </th>
       </tr>
       <tr>
-        <td align="left">D. 324-5-1</td>
-        <td align="left">Résultant du décret n° 2016-1617</td>
+        <td>
+
+D. 312-1-1-1 et D. 312-1-4 
+
+</td>
+        <td>
+
+Résultant du décret n° 2016-1922 
+
+</td>
       </tr>
       <tr>
-        <td align="justify">
+        <td align="left">
+
+D. 324-5-1 
+
+</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1617
+
+</td>
+      </tr>
+      <tr>
+        <td>
 
 D. 341-10 
 
 </td>
-        <td align="justify">
+        <td>
 
-Résultant du décret n° 2016-308
+Résultant du décret n° 2016-308 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 
 D. 341-11 à D. 341-15 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1342
+
 </td>
       </tr>
     </tbody>
@@ -13424,6 +13463,8 @@ Résultant du décret n° 2015-1342
 
 	  - Décret n°2015-1342 du 23 octobre 2015
 	  - Décret n°2016-308 du 17 mars 2016
+	  - Décret n°2016-1617 du 29 novembre 2016 (V)
+	  - Décret n°2016-1922 du 28 décembre 2016 (V)
 
 	**Codifié par**:
 
@@ -13431,7 +13472,7 @@ Résultant du décret n° 2015-1342
 
 	**Modifié par**:
 
-	  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
+	  - Décret n°2016-1922 du 28 décembre 2016 - art. 2
 
 
 ###### Article L562-8
@@ -15389,30 +15430,51 @@ commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droi
 </th>
       </tr>
       <tr>
-        <td align="left">D. 324-5-1</td>
-        <td align="left">Résultant du décret n° 2016-1617</td>
+        <td align="left">
+
+D. 312-1-1-1 et D. 312-1-4 
+
+</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1922 
+
+</td>
       </tr>
       <tr>
-        <td align="justify">
+        <td align="left">
+
+D. 324-5-1 
+
+</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1617
+
+</td>
+      </tr>
+      <tr>
+        <td>
 
 D. 341-10 
 
 </td>
-        <td align="justify">
+        <td>
 
-Résultant du décret n° 2016-308
+Résultant du décret n° 2016-308 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 
 D. 341-11 à D. 341-15 
 
 </td>
-        <td align="justify">
+        <td>
 
 Résultant du décret n° 2015-1342
+
 </td>
       </tr>
     </tbody>
@@ -15424,6 +15486,8 @@ Résultant du décret n° 2015-1342
 
 	  - Décret n°2015-1342 du 23 octobre 2015
 	  - Décret n°2016-308 du 17 mars 2016
+	  - Décret n°2016-1617 du 29 novembre 2016 (V)
+	  - Décret n°2016-1922 du 28 décembre 2016 (V)
 
 	**Codifié par**:
 
@@ -15431,7 +15495,7 @@ Résultant du décret n° 2015-1342
 
 	**Modifié par**:
 
-	  - Décret n°2016-1617 du 29 novembre 2016 - art. 2
+	  - Décret n°2016-1922 du 28 décembre 2016 - art. 2
 
 
 ###### Article L574-1
