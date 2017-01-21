@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-01-01 00:00:01 +0100
+Version Consolidée au 2017-01-22
 
 # Dispositions préliminaires
 
@@ -8599,9 +8599,9 @@ aux personnels civils de l'Etat.
 
 La commission comprend onze membres : 
 
-1° Un membre du Conseil d'Etat, d'un grade au moins égal à celui de conseiller, président, un magistrat de la Cour de
-cassation et un magistrat de la Cour des comptes en activité ou honoraire, désignés respectivement par le vice-président du
-Conseil d'Etat, le premier président de la Cour de cassation et le premier président de la Cour des comptes ; 
+1° Un membre du Conseil d'Etat, d'un grade au moins égal à celui de conseiller, un magistrat de la Cour de cassation et un
+magistrat de la Cour des comptes en activité ou honoraire, désignés respectivement par le vice-président du Conseil d'Etat,
+le premier président de la Cour de cassation et le premier président de la Cour des comptes ; 
 
 2° Un député et un sénateur, désignés respectivement par le président de l'Assemblée nationale et le président du Sénat ; 
 
@@ -8611,7 +8611,7 @@ Conseil d'Etat, le premier président de la Cour de cassation et le premier pré
 
 5° Une personnalité qualifiée en matière d'archives, proposée par le directeur général des patrimoines ; 
 
-6° Le président de la Commission nationale de l'informatique et des libertés, ou son représentant ;
+6° Le président de la Commission nationale de l'informatique et des libertés, ou son représentant ; 
 
 7° Une personnalité qualifiée en matière de concurrence et de prix, proposée par le président de l'Autorité de la
 concurrence ; 
@@ -8624,9 +8624,12 @@ Chacune des autorités appelées à désigner ou proposer un membre de la commis
 sorte que, après cette désignation ou cette proposition, l'écart entre le nombre de femmes et d'hommes parmi l'ensemble des
 membres, d'une part, et parmi les membres titulaires, d'autre part, ne soit pas supérieur à un. 
 
-Les membres de la commission sont nommés par décret du Premier ministre. Leur mandat est, à l'exception de ceux mentionnés
-aux 2°, 3° et 6°, qui siègent pour la durée du mandat au titre duquel ils ont été désignés, d'une durée de trois ans. Ce
-mandat est renouvelable. 
+Le président de la commission est nommé par décret du Président de la République parmi les membres. Les autres membres de la
+commission sont nommés par décret. Leur mandat est, à l'exception de ceux mentionnés aux 2°, 3° et 6°, qui siègent pour la
+durée du mandat au titre duquel ils ont été désignés, d'une durée de trois ans. Ce mandat est renouvelable une fois. 
+
+Selon des modalités fixées par décret en Conseil d'Etat, le collège est, à l'exception de son président, renouvelé par moitié
+tous les trois ans. 
 
 La commission comprend en outre, avec voix consultative, le Défenseur des droits ou son représentant. 
 
@@ -8646,11 +8649,6 @@ certaines de ses attributions.
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Modifié par**:
-
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 13
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 27
-
 	**Cité par**:
 
 	  - Décret n°2016-1564 du 21 novembre 2016 (V)
@@ -8660,8 +8658,13 @@ certaines de ses attributions.
 	  - Code des relations entre le public et l'adminis... - art. L574-1 (VD)
 	  - Code des relations entre le public et l'adminis... - art. R341-5 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 35
+
 	**Cite**:
 
+	  - Code des relations entre le public et l'adminis... - art. L326-1 (V)
 	  - Code des relations entre le public et l'administration - art. L342-3
 
 
