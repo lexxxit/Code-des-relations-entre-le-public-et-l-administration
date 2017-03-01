@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-03-02
 
 # Dispositions préliminaires
 
@@ -4326,11 +4326,16 @@ conseil ou représenter par un mandataire de son choix.
 Toute décision prise par une administration comporte la signature de son auteur ainsi que la mention, en caractères lisibles,
 du prénom, du nom et de la qualité de celui-ci.
 
+Toutefois, les décisions fondées sur des motifs en lien avec la prévention d'actes de terrorisme sont prises dans des
+conditions qui préservent l'anonymat de leur signataire. Seule une ampliation de cette décision peut être notifiée à la
+personne concernée ou communiquée à des tiers, l'original signé, qui seul fait apparaître les nom, prénom et qualité du
+signataire, étant conservé par l'administration.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 4 (VT)
+	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 	**Cité par**:
 
@@ -4341,13 +4346,9 @@ du prénom, du nom et de la qualité de celui-ci.
 	  - Code des relations entre le public et l'adminis... - art. L573-2 (V)
 	  - Livre des procédures fiscales - art. L256 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Loi n°2017-258 du 28 février 2017 - art. 4
 
 
 ###### Article L212-2
@@ -11373,34 +11374,30 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
 </th>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify"> </td>
-      </tr>
+        <td>
+        </td><td>
+      </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 200-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td>Titre Ier 
 
 </td>
-        <td align="justify"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">Titre Ier 
-
-</td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+        <td>
 L. 211-1 à L. 211-6 
 
 </td>
@@ -11409,138 +11406,139 @@ L. 211-1 à L. 211-6
 </td>
       </tr>
       <tr>
-        <td align="justify">L. 212-1 et L. 212-3
+        <td>L. 212-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>L. 212-2</td>
+        <td>Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 
 
-L. 212-2 
+</td>
+      </tr>
+      <tr>
+        <td>
+          L. 212-3 
         </td>
-        <td align="justify">Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 </td>
+        <td>Résultant de l'ordonnance n° 2015-1341 </td>
       </tr>
       <tr>
-        <td align="justify">Titre II 
+        <td>Titre II 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 221-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 221-2, L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et
 qui ne sont pas publiées au Journal officiel de la République française 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 221-8 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td>Titre III 
 
 </td>
-        <td align="justify"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">Titre III 
-
-</td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+        <td>
 L. 231-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 231-4 à L. 231-6 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 232-1 à L. 232-4 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td>Titre IV 
 
 </td>
-        <td align="justify"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">Titre IV 
-
-</td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+        <td>
 L. 240-1 et L. 240-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 241-1 et L. 241-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 242-1 à L. 242-5 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 243-1 à L. 243-4
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341
+        <td>Résultant de l'ordonnance n° 2015-1341
 
 </td>
       </tr>
@@ -11573,7 +11571,7 @@ L. 243-1 à L. 243-4
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 
 ##### Sous-section 3 : Dispositions applicables du livre III
@@ -13204,157 +13202,179 @@ industriel et commercial, d'autre part, dans leur rédaction indiquée dans la c
 </th>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 200-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify"> </td>
-        <td align="justify"> </td>
-      </tr>
+        <td>
+        </td><td>
+      </td></tr>
       <tr>
         <td align="left">Titre Ier : 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 211-1 à L. 211-6 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">L. 212-1 et L. 212-3</td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>
+
+L. 212-1 
+
+</td>
+        <td>
+
+Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique 
 
 </td>
       </tr>
       <tr>
-        <td align="left">L. 212-2 </td>
-        <td align="left">Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 </td>
+        <td>
+
+L. 212-2
+
+</td>
+        <td>
+
+Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">L. 212-3 </td>
+        <td align="left">
+
+Résultant de l'ordonnance n° 2015-1341 
+
+</td>
       </tr>
       <tr>
         <td align="left">Titre II 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 221-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 221-2, L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et
 qui ne sont pas publiées au Journal officiel de la République française 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 221-8 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify"> </td>
-        <td align="justify"> </td>
-      </tr>
+        <td>
+        </td><td>
+      </td></tr>
       <tr>
         <td align="left">Titre III : 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 231-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 231-4 à L. 231-6 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 232-1 à L. 232-4 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify"> </td>
-        <td align="justify"> </td>
-      </tr>
+        <td>
+        </td><td>
+      </td></tr>
       <tr>
         <td align="left">Titre IV 
 
 </td>
-        <td align="left"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 240-1 et L. 240-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 241-1 et L. 241-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 242-1 à L. 242-5 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 243-1 à L. 243-4
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341
+        <td>Résultant de l'ordonnance n° 2015-1341
 
 </td>
       </tr>
@@ -13387,7 +13407,7 @@ L. 243-1 à L. 243-4
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 
 ##### Sous-section 3 : Dispositions applicables du livre III
@@ -15140,172 +15160,167 @@ industriel et commercial, d'autre part, dans leur rédaction indiquée dans la c
 </th>
       </tr>
       <tr>
-        <td align="justify">
-
-</td>
-        <td align="justify"> </td>
-      </tr>
+        <td>
+        </td><td>
+      </td></tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 200-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td>Titre Ier 
 
 </td>
-        <td align="justify"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">Titre Ier 
-
-</td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+        <td>
 L. 211-1 à L. 211-6 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">L. 212-1 et L. 212-3 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
-
-</td>
+        <td>L. 212-1 </td>
+        <td>Résultant de la loi n° 2017-258 du 28 février 2017 relative à la sécurité publique </td>
       </tr>
       <tr>
-        <td align="justify">
-
-L. 212-2 
+        <td>
+          L. 212-2 
         </td>
         <td align="left">Résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016 </td>
       </tr>
       <tr>
-        <td align="justify">Titre II 
+        <td>L. 212-3 
 
 </td>
-        <td align="left"> </td>
+        <td>Résultant de l'ordonnance n° 2015-1341 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>Titre II 
+
+</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td>
 L. 221-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 221-2, L. 221-3 et L. 221-7, en tant qu'elles concernent les décisions qui ne sont ni réglementaires ni individuelles et
 qui ne sont pas publiées au Journal officiel de la République française 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 221-8 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td>Titre III 
 
 </td>
-        <td align="justify"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">Titre III 
-
-</td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+        <td>
 L. 231-1 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 231-4 à L. 231-6 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 232-1 à L. 232-4 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
+        </td><td>
+      </td></tr>
+      <tr>
+        <td>Titre IV 
 
 </td>
-        <td align="justify"> </td>
-      </tr>
+        <td align="left">
+      </td></tr>
       <tr>
-        <td align="justify">Titre IV 
-
-</td>
-        <td align="left"> </td>
-      </tr>
-      <tr>
-        <td align="justify">
+        <td>
 L. 240-1 et L. 240-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 241-1 et L. 241-2 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 242-1 à L. 242-5 
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341 
+        <td>Résultant de l'ordonnance n° 2015-1341 
 
 </td>
       </tr>
       <tr>
-        <td align="justify">
+        <td>
 L. 243-1 à L. 243-4
 
 </td>
-        <td align="justify">Résultant de l'ordonnance n° 2015-1341
+        <td>Résultant de l'ordonnance n° 2015-1341
 
 </td>
       </tr>
@@ -15338,7 +15353,7 @@ L. 243-1 à L. 243-4
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 
 ###### Article L573-3
