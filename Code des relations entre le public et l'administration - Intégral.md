@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-03-22
+Version Consolidée au 2017-04-01
 
 # Dispositions préliminaires
 
@@ -7139,6 +7139,145 @@ commercial soumise à la concurrence.
 	  - Code des relations entre le public et l'adminis... - art. L312-1-1 (V)
 
 
+###### Article R321-5
+
+Le service public des données de référence met à la disposition du public les données suivantes :
+
+1° Le répertoire des entreprises et de leurs établissements, mentionné à l'
+article R. 123-220 du code de commerce
+, produit par l'Institut national de la statistique et des études économiques ;
+
+2° Le répertoire national des associations, créé par l'arrêté du 14 octobre 2009 portant création du répertoire national des
+associations, produit par la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur ;
+
+3° Le plan cadastral informatisé, mentionné à l'
+article L. 127-10 du code de l'environnement
+, produit par la direction générale des finances publiques ;
+
+4° Le registre parcellaire graphique, créé sur le fondement du règlement européen n° 1306/2013 du Parlement européen et du
+Conseil du 17 décembre 2013 relatif au financement, à la gestion et au suivi de la politique agricole commune et abrogeant
+les règlements (CEE) n° 352/78, (CE) n° 165/94, (CE) n° 2799/98, (CE) n° 814/2000, (CE) n° 1200/2005 et n° 485/2008 du
+Conseil, produit par l'Agence de services et de paiement ;
+
+5° Le “ référentiel à grande échelle ”, prévu par le 
+décret n° 2011-1371 du 27 octobre 2011
+relatif à l'Institut national de l'information géographique et forestière (IGN), produit par l'Institut national de
+l'information géographique et forestière ;
+
+6° La base adresse nationale, coproduite par l'Institut national de l'information géographique et forestière en vertu de la
+convention conclue le 15 avril 2015 entre l'Etat, l'Institut national de l'information géographique et forestière, la société
+anonyme La Poste et l'association OpenStreetMap France ;
+
+7° La base de données de l'organisation administrative de l'Etat, produite par la direction de l'information légale et
+administrative à partir du recensement des coordonnées des services publics nationaux et locaux prévu par l'arrêté du 6
+novembre 2000 relatif à la création d'un site sur internet intitulé “ service-public. fr ” ;
+
+8° Le répertoire opérationnel des métiers et des emplois, produit par Pôle emploi ;
+
+9° Le code officiel géographique, mentionné par l'arrêté du 28 novembre 2003 relatif au code officiel géographique, produit
+par l'Institut national de la statistique et des études économiques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2011-1371 du 27 octobre 2011
+	  - Code de commerce - art. R123-220
+	  - Code de l'environnement - art. L127-10
+
+	**Créé par**:
+
+	  - Décret n°2017-331 du 14 mars 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code des relations entre le public et l'adminis... - art. R321-6 (VD)
+
+
+###### Article R321-6
+
+Les données de référence mentionnées à l'article R. 321-5 sont mises à disposition du public sous forme électronique par
+l'administration qui en assure la production ou une autre administration désignée par elle. 
+
+Lorsque les administrations mentionnées à l'alinéa précédent ne sont pas en mesure d'en assurer la mise à disposition
+conformément aux prescriptions prévues par l'arrêté mentionné à l'article R. 321-7, les données de référence sont alors mises
+à disposition par le service mentionné à l'article R. 321-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-331 du 14 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. R321-5
+
+
+###### Article R321-7
+
+Les administrations mentionnées à l'article R. 321-6 mettent à disposition les données de référence dans le respect des
+dispositions du titre II du livre III et des conditions de fiabilité, de disponibilité et de sécurité fixées par un arrêté du
+Premier ministre. Cet arrêté prescrit les règles techniques et d'organisation relatives à l'exploitation, au maintien en
+conditions opérationnelles, à la disponibilité et à la performance de ce service. Cet arrêté fixe, en outre, les règles
+permettant de favoriser la réutilisation des données de référence et notamment celles relatives à leur format, à leur
+description et aux modalités de leur mise à disposition.
+
+Les administrations qui mettent à disposition des données de référence publient en ligne, chacune pour ce qui la concerne,
+les engagements de service qu'elles prennent en application de l'arrêté mentionné à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-331 du 14 mars 2017 - art. 1
+
+
+###### Article R321-8
+
+Le service chargé de l'administration du portail unique interministériel destiné à rassembler et à mettre à disposition les
+informations publiques de l'Etat et de ses établissements publics, mentionné au 
+II de l'article 5 du décret n° 2015-1165 du 21 septembre 2015 
+relatif au secrétariat général pour la modernisation de l'action publique, concourt à la mise en œuvre du service public des
+données de référence créé par l'article L. 321-4. 
+
+A ce titre, ce service est chargé notamment : 
+
+1° De coordonner la mise à disposition des données de référence, d'en effectuer le référencement et de donner accès à ces
+données, ainsi qu'aux données qui y sont associées, sur le portail unique interministériel précité. 
+
+Il peut en outre assurer directement la mise à disposition des données de référence dans les conditions prévues à l'article
+R. 321-6 ; 
+
+2° De veiller à la fiabilité, à la disponibilité, à la sécurité d'exploitation, au maintien en conditions opérationnelles, à
+la performance des services de mise à disposition des données de référence, conformément aux prescriptions prévues dans
+l'arrêté mentionné à l'article R. 321-7 et à l'ensemble des mesures applicables aux administrations au sens de l'article L.
+100-3 destinées à favoriser la réutilisation des données de référence et notamment à leur interopérabilité ; 
+
+3° De mettre en œuvre un dispositif contribuant à l'amélioration de la qualité des données de référence en liaison avec les
+usagers du service public et les administrations, notamment en proposant aux administrations une solution mutualisée de
+signalement ou de correction d'éventuelles erreurs au sein de ces données ; 
+
+4° De favoriser l'émergence de services innovants réutilisant les données de référence ; 
+
+5° De rechercher à inclure de nouvelles données dans le service public de mise à disposition des données de référence ; 
+
+6° De veiller à ce que la mise à disposition des données de référence s'effectue dans le respect des dispositions
+législatives et règlementaires en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2015-1165 du 21 septembre 2015 - art. 5 (VD)
+	  - Code des relations entre le public et l'administration - art. L100-3
+	  - Code des relations entre le public et l'administration - art. L321-4
+
+	**Créé par**:
+
+	  - Décret n°2017-331 du 14 mars 2017 - art. 1
+
+
 ### Chapitre II : Règles générales 
 
 ###### Article L322-1
@@ -12120,165 +12259,158 @@ R. *343-4
 Les dispositions du livre III mentionnées dans la colonne de gauche du tableau ci-après sont applicables en Polynésie
 française aux relations entre le public, d'une part, et les organismes et personnes de droit public et de droit privé, autres
 que les établissements publics, chargés par l'Etat et les communes d'une mission de service public administratif et, le cas
-échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau.
+échéant, industriel et commercial, d'autre part, dans leur rédaction indiquée dans la colonne de droite du même tableau. 
 
 <table>
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR RÉDACTION</th>
+      <th>DISPOSITIONS APPLICABLES </th>
+      <th>DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
-      <td align="left">Titre Ier</td>
+      <td align="left">Titre Ier </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td>R. 311-8-1 et R. 311-8-2</td>
+      <td>R. 311-8-1 et R. 311-8-2 </td>
       <td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données
-publiques</td>
+publiques </td>
     </tr>
     <tr>
-      <td>
-R. 311-10 et R. 311-11 
-</td>
+      <td>R. 311-10 et R. 311-11 </td>
+      <td>Résultant du décret n° 2015-1342 </td>
+    </tr>
+    <tr>
+      <td>R. 311-13 </td>
       <td>Résultant du décret n° 2015-1342 
 </td>
     </tr>
     <tr>
-      <td>
-R. 311-13 
-</td>
-      <td>Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td>
-R. 312-3 à R. 312-7 
-</td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>R. 312-3 à R. 312-7 </td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td>Titre II</td>
+      <td>Titre II </td>
       <td>
     </td></tr>
     <tr>
-      <td>R. 322-3</td>
+      <td>R. 321-5 à R. 321-8 </td>
+      <td>Résultant du décret n° 2017-331 du 14 mars 2017 
+</td>
+    </tr>
+    <tr>
+      <td>R. 322-3 </td>
+      <td>Résultant du décret n° 2016-308 </td>
+    </tr>
+    <tr>
+      <td>R. 322-7 </td>
       <td>Résultant du décret n° 2016-308 
 </td>
     </tr>
     <tr>
-      <td>R. 322-7</td>
-      <td>Résultant du décret n° 2016-308</td>
+      <td>R. 323-3 et R. 323-4 </td>
+      <td>Résultant du décret n° 2016-308 </td>
     </tr>
     <tr>
-      <td>R. 323-3 et R. 323-4</td>
-      <td>Résultant du décret n° 2016-308</td>
+      <td>R. 323-6 et R. 323-7 </td>
+      <td>Résultant du décret n° 2016-308 </td>
     </tr>
     <tr>
-      <td>R. 323-6 et R. 323-7</td>
-      <td>Résultant du décret n° 2016-308</td>
-    </tr>
-    <tr>
-      <td>
-R. 324-4-1 à R. 324-4-5
+      <td>R. 324-4-1 à R. 324-4-5 </td>
+      <td>Résultant du décret n° 2016-1036 
 </td>
-      <td>Résultant du décret n° 2016-1036</td>
     </tr>
     <tr>
-      <td>R. 324-6-1</td>
-      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+      <td>R. 324-6-1 </td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
     </tr>
     <tr>
-      <td>R. 324-7</td>
+      <td>R. 324-7 </td>
       <td>
 
-Résultant du décret n° 2016-308
+Résultant du décret n° 2016-308 
 
 </td>
     </tr>
     <tr>
-      <td>R. 325-5</td>
-      <td>Résultant du décret n° 2016-308</td>
+      <td>R. 325-5 </td>
+      <td>Résultant du décret n° 2016-308 </td>
     </tr>
     <tr>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="left">Titre III</td>
+      <td align="left">Titre III </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td>
-R. 330-2 à R. 330-4 
-</td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>R. 330-2 à R. 330-4 </td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td>
       </td><td>
     </td></tr>
     <tr>
-      <td align="left">Titre IV</td>
+      <td align="left">Titre IV </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td>R. 341-2-1</td>
-      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+      <td>R. 341-2-1 </td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
     </tr>
     <tr>
-      <td>R. 341-3 à R. 341-5</td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>R. 341-3 à R. 341-5 </td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
-      <td>R. 341-5-1</td>
-      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+      <td>R. 341-5-1 </td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
     </tr>
     <tr>
-      <td>R. 341-6</td>
-      <td>résultant du décret n° 2015-1342</td>
+      <td>R. 341-6 </td>
+      <td>résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
-      <td>R. 341-7</td>
-      <td>Résultant du décret n° 2016-308</td>
+      <td>R. 341-7 </td>
+      <td>Résultant du décret n° 2016-308 </td>
     </tr>
     <tr>
-      <td>R. 341-8</td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>R. 341-8 </td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
-      <td>R. 341-9</td>
-      <td>Résultant du décret n° 2016-308</td>
+      <td>R. 341-9 </td>
+      <td>Résultant du décret n° 2016-308 </td>
     </tr>
     <tr>
-      <td>R. 341-16</td>
-      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
+      <td>R. 341-16 </td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
     </tr>
     <tr>
-      <td>R. 341-17</td>
-      <td>Résultant du décret n° 2015-1342</td>
+      <td>R. 341-17 </td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
-      <td>R. 342-4-1</td>
-      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
-    </tr>
-    <tr>
-      <td>R. 342-5</td>
-      <td>Résultant du décret n° 2015-1342</td>
-    </tr>
-    <tr>
-      <td>
-R. 343-1 à R. 343-3 
+      <td>R. 342-4-1 </td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 
 </td>
-      <td>Résultant du décret n° 2015-1342</td>
     </tr>
     <tr>
-      <td>
-R. 343-5 à R. 343-12 
-</td>
+      <td>R. 342-5 </td>
+      <td>Résultant du décret n° 2015-1342 </td>
+    </tr>
+    <tr>
+      <td>R. 343-1 à R. 343-3 </td>
+      <td>Résultant du décret n° 2015-1342 </td>
+    </tr>
+    <tr>
+      <td>R. 343-5 à R. 343-12 </td>
       <td>Résultant du décret n° 2015-1342</td>
     </tr>
   </tbody>
@@ -12290,23 +12422,15 @@ R. 343-5 à R. 343-12
 
 	  - Décret n°2015-1342 du 23 octobre 2015
 	  - Décret n°2016-308 du 17 mars 2016
-	  - Code des relations entre le public et l'administration - art. R311-10
-	  - Code des relations entre le public et l'administration - art. R311-13
-	  - Code des relations entre le public et l'administration - art. R312-3
-	  - Code des relations entre le public et l'administration - art. R324-4-1
-	  - Code des relations entre le public et l'administration - art. R330-2
-	  - Code des relations entre le public et l'administration - art. R341-16
-	  - Code des relations entre le public et l'administration - art. R341-2
-	  - Code des relations entre le public et l'administration - art. R342-4
-	  - Code des relations entre le public et l'administration - art. R343-1
-	  - Code des relations entre le public et l'administration - art. R343-5
-
-	**Codifié par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
+	  - Décret n°2016-1036 du 28 juillet 2016
+	  - Décret n°2016-1564 du 21 novembre 2016
+	  - Décret n°2017-330 du 14 mars 2017
+	  - Décret n°2017-331 du 14 mars 2017
+	  - Décret n°2017-349 du 20 mars 2017 (V)
 
 	**Modifié par**:
 
+	  - Décret n°2017-331 du 14 mars 2017 - art. 3
 	  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
@@ -13960,9 +14084,9 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 311-8-1 et R. 311-8-2</td>
-      <td align="left">Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de
-données publiques</td>
+      <td>R. 311-8-1 et R. 311-8-2</td>
+      <td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données
+publiques</td>
     </tr>
     <tr>
       <td>
@@ -13991,6 +14115,10 @@ R. 312-3 à R. 312-7
       <td>Titre II</td>
       <td>
     </td></tr>
+    <tr>
+      <td>R. 321-5 à R. 321-8</td>
+      <td>Résultant du décret n° 2017-331 du 14 mars 2017</td>
+    </tr>
     <tr>
       <td>R. 322-3</td>
       <td>Résultant du décret n° 2016-308 
@@ -14130,6 +14258,7 @@ R. 343-5 à R. 343-12
 
 	**Modifié par**:
 
+	  - Décret n°2017-331 du 14 mars 2017 - art. 3
 	  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
@@ -15984,9 +16113,9 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 311-8-1 et R. 311-8-2</td>
-      <td align="left">Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de
-données publiques</td>
+      <td>R. 311-8-1 et R. 311-8-2</td>
+      <td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données
+publiques</td>
     </tr>
     <tr>
       <td>
@@ -16015,6 +16144,10 @@ R. 312-3 à R. 312-9
       <td>Titre II</td>
       <td>
     </td></tr>
+    <tr>
+      <td>R. 321-5 à R. 321-8</td>
+      <td>Résultant du décret n° 2017-331 du 14 mars 2017</td>
+    </tr>
     <tr>
       <td>R. 322-3</td>
       <td>Résultant du décret n° 2016-308 
@@ -16148,12 +16281,9 @@ R. 343-5 à R. 343-12
 	  - Code des relations entre le public et l'administration - art. R343-1
 	  - Code des relations entre le public et l'administration - art. R343-5
 
-	**Codifié par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
-
 	**Modifié par**:
 
+	  - Décret n°2017-331 du 14 mars 2017 - art. 3
 	  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
