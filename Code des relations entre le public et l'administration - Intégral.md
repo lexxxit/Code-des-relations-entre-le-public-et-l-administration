@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-09-01
 
 # Dispositions préliminaires
 
@@ -6289,6 +6289,45 @@ industriel et commercial ;
 	  - Code du patrimoine - art. L213-3 (V)
 
 
+###### Article R311-3-1-1
+
+La mention explicite prévue à l'article L. 311-3-1 indique la finalité poursuivie par le traitement algorithmique. Elle
+rappelle le droit, garanti par cet article, d'obtenir la communication des règles définissant ce traitement et des
+principales caractéristiques de sa mise en œuvre, ainsi que les modalités d'exercice de ce droit à communication et de
+saisine, le cas échéant, de la commission d'accès aux documents administratifs, définies par le présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-330 du 14 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L311-3-1
+
+
+###### Article R311-3-1-2
+
+L'administration communique à la personne faisant l'objet d'une décision individuelle prise sur le fondement d'un traitement
+algorithmique, à la demande de celle-ci, sous une forme intelligible et sous réserve de ne pas porter atteinte à des secrets
+protégés par la loi, les informations suivantes :
+
+1° Le degré et le mode de contribution du traitement algorithmique à la prise de décision ;
+
+2° Les données traitées et leurs sources ;
+
+3° Les paramètres de traitement et, le cas échéant, leur pondération, appliqués à la situation de l'intéressé ;
+
+4° Les opérations effectuées par le traitement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-330 du 14 mars 2017 - art. 1
+
+
 ###### Article R311-8-1
 
 Sous réserve des dispositions particulières à certaines données, le comité du secret statistique est saisi en application du
@@ -12402,9 +12441,13 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
       <td align="left">
     </td></tr>
     <tr>
-      <td>R. 311-8-1 et R. 311-8-2</td>
-      <td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données
-publiques</td>
+      <td align="left">R. 311-8-1 et R. 311-8-2</td>
+      <td align="left">Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de
+données publiques</td>
+    </tr>
+    <tr>
+      <td align="left">R. 311-3-1-1 et R. 311-3-1-2</td>
+      <td align="left">Résultant du décret n° 2017-330 du 14 mars 2017</td>
     </tr>
     <tr>
       <td>R. 311-10 et R. 311-11</td>
@@ -12412,7 +12455,8 @@ publiques</td>
     </tr>
     <tr>
       <td>R. 311-13</td>
-      <td>Résultant du décret n° 2015-1342 </td>
+      <td>Résultant du décret n° 2015-1342 
+</td>
     </tr>
     <tr>
       <td>R. 312-3 à R. 312-7</td>
@@ -12437,7 +12481,8 @@ publiques</td>
     </tr>
     <tr>
       <td>R. 322-7</td>
-      <td>Résultant du décret n° 2016-308 </td>
+      <td>Résultant du décret n° 2016-308 
+</td>
     </tr>
     <tr>
       <td>R. 323-3 et R. 323-4</td>
@@ -12489,17 +12534,12 @@ Résultant du décret n° 2016-308
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 341-1-1</td>
-      <td align="left">Résultant du décret n° 2017-479 du 5 avril 2017</td>
-    </tr>
-    <tr>
       <td>R. 341-2-1</td>
       <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
     </tr>
     <tr>
       <td>R. 341-3 à R. 341-5</td>
-      <td>Résultant du décret n° 2015-1342 
-</td>
+      <td>Résultant du décret n° 2015-1342 </td>
     </tr>
     <tr>
       <td>R. 341-5-1</td>
@@ -12519,13 +12559,11 @@ Résultant du décret n° 2016-308
     </tr>
     <tr>
       <td>R. 341-9</td>
-      <td>Résultant du décret n° 2016-308 
-</td>
+      <td>Résultant du décret n° 2016-308 </td>
     </tr>
     <tr>
       <td>R. 341-16</td>
-      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 
-</td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
     </tr>
     <tr>
       <td>R. 341-17</td>
@@ -12533,7 +12571,8 @@ Résultant du décret n° 2016-308
     </tr>
     <tr>
       <td>R. 342-4-1</td>
-      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 </td>
+      <td>Résultant du décret n° 2016-1564 du 21 novembre 2016 
+</td>
     </tr>
     <tr>
       <td>R. 342-5</td>
@@ -12558,13 +12597,14 @@ Résultant du décret n° 2016-308
 	  - Décret n°2016-308 du 17 mars 2016
 	  - Décret n°2016-1036 du 28 juillet 2016
 	  - Décret n°2016-1564 du 21 novembre 2016
-	  - Décret n°2017-330 du 14 mars 2017
+	  - Décret n°2017-330 du 14 mars 2017 (VD)
 	  - Décret n°2017-331 du 14 mars 2017
-	  - Décret n°2017-349 du 20 mars 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-479 du 5 avril 2017 - art. 3
+	  - Décret n°2017-330 du 14 mars 2017 - art. 2
+	  - Décret n°2017-331 du 14 mars 2017 - art. 3
+	  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
 ##### Sous-section 4 : Dispositions applicables du livre IV
@@ -12958,23 +12998,33 @@ commercial, dans leur rédaction indiquée dans la colonne de droite du même ta
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITION APPLICABLE</th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LA RÉDACTION</th>
     </tr>
     <tr>
-      <td align="justify">R. 311-8-1 et R. 311-8-2</td>
+      <td>R. 311-8-1 et R. 311-8-2</td>
       <td>
 
 Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques
 
 </td>
     </tr>
+    <tr>
+      <td align="center">
+
+R. 311-3-1-1 et R. 311-3-1-2</td>
+      <td>Résultant du décret n° 2017-330 du 14 mars 2017</td>
+    </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-330 du 14 mars 2017 - art. 2
 
 	**Modifié par**:
 
@@ -14222,6 +14272,10 @@ que les établissements publics, chargés par l'Etat et les communes d'une missi
       <td align="left">
     </td></tr>
     <tr>
+      <td>R. 311-3-1-1 et R. 311-3-1-2</td>
+      <td>Résultant du décret n° 2017-330 du 14 mars 2017</td>
+    </tr>
+    <tr>
       <td>R. 311-8-1 et R. 311-8-2</td>
       <td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données
 publiques</td>
@@ -14276,7 +14330,7 @@ R. 312-3 à R. 312-7
     </tr>
     <tr>
       <td>
-R. 324-4-1 à R. 324-4-5
+R. 324-4-1 à R. 324-4-5 
 </td>
       <td>Résultant du décret n° 2016-1036</td>
     </tr>
@@ -14314,10 +14368,6 @@ R. 330-2 à R. 330-4
       <td align="left">Titre IV</td>
       <td align="left">
     </td></tr>
-    <tr>
-      <td align="left">R. 341-1-1</td>
-      <td align="left">Résultant du décret n° 2017-479 du 5 avril 2017</td>
-    </tr>
     <tr>
       <td>R. 341-2-1</td>
       <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
@@ -14383,24 +14433,20 @@ R. 343-5 à R. 343-12
 
 	  - Décret n°2015-1342 du 23 octobre 2015
 	  - Décret n°2016-308 du 17 mars 2016
+	  - Décret n°2017-330 du 14 mars 2017 (VD)
 	  - Code des relations entre le public et l'administration - art. R311-10
 	  - Code des relations entre le public et l'administration - art. R311-13
 	  - Code des relations entre le public et l'administration - art. R312-3
 	  - Code des relations entre le public et l'administration - art. R324-4-1
 	  - Code des relations entre le public et l'administration - art. R330-2
-	  - Code des relations entre le public et l'administration - art. R341-16
-	  - Code des relations entre le public et l'administration - art. R341-2
-	  - Code des relations entre le public et l'administration - art. R342-4
 	  - Code des relations entre le public et l'administration - art. R343-1
 	  - Code des relations entre le public et l'administration - art. R343-5
 
-	**Codifié par**:
-
-	  - Décret n°2015-1342 du 23 octobre 2015 - art.
-
 	**Modifié par**:
 
-	  - Décret n°2017-479 du 5 avril 2017 - art. 3
+	  - Décret n°2017-330 du 14 mars 2017 - art. 2
+	  - Décret n°2017-331 du 14 mars 2017 - art. 3
+	  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
 ##### Sous-section 4 : Dispositions applicables du livre IV
@@ -14817,31 +14863,36 @@ droit public et de droit privé chargés par ces collectivités d'une mission de
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITION APPLICABLE</th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LA RÉDACTION</th>
     </tr>
     <tr>
-      <td align="justify">R. 311-3-1-1 et R. 311-3-1-2</td>
-      <td align="justify">
+      <td align="center">
+
+R. 311-3-1-1 et R. 311-3-1-2
+
+</td>
+      <td align="center">
 
 Résultant du décret n° 2017-330 du 14 mars 2017
 
 </td>
     </tr>
     <tr>
-      <td align="justify">
-
-R. 311-8-1 et R. 311-8-2</td>
-      <td align="justify">
-
-Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données publiques</td>
+      <td>R. 311-8-1 et R. 311-8-2</td>
+      <td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données
+publiques</td>
     </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-330 du 14 mars 2017 - art. 2
 
 	**Modifié par**:
 
@@ -16259,6 +16310,10 @@ personnes de droit public et de droit privé chargés par l'Etat d'une mission d
       <td align="left">
     </td></tr>
     <tr>
+      <td>R. 311-3-1-1 et R. 311-3-1-2</td>
+      <td>Résultant du décret n° 2017-330 du 14 mars 2017</td>
+    </tr>
+    <tr>
       <td>R. 311-8-1 et R. 311-8-2</td>
       <td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données
 publiques</td>
@@ -16352,10 +16407,6 @@ R. 330-2 à R. 330-4
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 341-1-1</td>
-      <td align="left">Résultant du décret n° 2017-479 du 5 avril 2017</td>
-    </tr>
-    <tr>
       <td>R. 341-2-1</td>
       <td>Résultant du décret n° 2016-1564 du 21 novembre 2016</td>
     </tr>
@@ -16433,7 +16484,9 @@ R. 343-5 à R. 343-12
 
 	**Modifié par**:
 
-	  - Décret n°2017-479 du 5 avril 2017 - art. 3
+	  - Décret n°2017-330 du 14 mars 2017 - art. 2
+	  - Décret n°2017-331 du 14 mars 2017 - art. 3
+	  - Décret n°2017-349 du 20 mars 2017 - art. 2
 
 
 #### Section 2 : Dispositions relatives à la collectivité de Wallis-et-Futuna et aux organismes placés sous son contrôle
@@ -16753,15 +16806,19 @@ DISPOSITIONS APPLICABLES</th>
 DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 TITRE II</td>
-      <td align="left">
+      <td>
     </td></tr>
     <tr>
+      <td>R. 311-3-1-1 et R. 311-3-1-2</td>
+      <td>Résultant du décret n° 2017-330 du 14 mars 2017</td>
+    </tr>
+    <tr>
       <td>R. 311-8-1 et R. 311-8-2</td>
-      <td align="left">Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de
-données publiques</td>
+      <td>Résultant du décret n° 2017-349 du 20 mars 2017 relatif à la procédure d'accès sécurisé aux bases de données
+publiques</td>
     </tr>
     <tr>
       <td>
@@ -16835,7 +16892,7 @@ Résultant du décret n° 2016-308 </td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-349 du 20 mars 2017 - art. 2
+	  - Décret n°2017-330 du 14 mars 2017 - art. 2
 
 
 #### Section 3 : Dispositions d'adaptation
