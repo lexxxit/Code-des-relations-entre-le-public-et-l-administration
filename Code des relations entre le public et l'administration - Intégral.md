@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2018-05-25
 
 # Dispositions préliminaires
 
@@ -587,22 +587,9 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 L'application des articles L. 112-8 et L. 112-9 à certaines démarches administratives peut être écartée, par décret en
 Conseil d'Etat, pour des motifs d'ordre public, de défense et de sécurité nationale, de bonne administration, ou lorsque la
-présence personnelle du demandeur apparaît nécessaire. 
-
-Le premier alinéa du présent article s'applique lorsque, en application de l'article 43 bis de la loi n° 78-17 du 6 janvier
-1978 relative à l'informatique, aux fichiers et aux libertés, l'autorité administrative doit permettre à toute personne
-d'exercer les droits prévus au chapitre V de la même loi, si cela est possible, par voie électronique.
+présence personnelle du demandeur apparaît nécessaire.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 43 bis (VT)
-	  - Code des relations entre le public et l'administration - art. L112-8
-
-	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
 	**Cité par**:
 
@@ -614,6 +601,10 @@ d'exercer les droits prévus au chapitre V de la même loi, si cela est possible
 	**Modifié par**:
 
 	  - Loi n°2016-1321 du 7 octobre 2016 - art. 58
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L112-8
 
 
 ###### Article R112-9-1
