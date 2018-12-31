@@ -1,5 +1,5 @@
 # Code des relations entre le public et l'administration  
-Version Consolidée au 2018-05-25
+Version Consolidée au 2019-01-01
 
 # Dispositions préliminaires
 
@@ -4888,7 +4888,7 @@ les dispositions du chapitre Ier du présent titre :
 1° En ce qui concerne les départements, par les dispositions des articles L. 3131-1 à L. 3131-5 du code général des
 collectivités territoriales et par les dispositions réglementaires prises pour leur application ; 
 
-2° En ce qui concerne le département de Paris, par les dispositions de l'article L. 3411-2 du même code ; 
+2° (Abrogé)
 
 3° En ce qui concerne la métropole de Lyon, par les dispositions de l'article L. 3611-3 du même code ; 
 
@@ -4901,16 +4901,15 @@ du même code et par les dispositions réglementaires prises pour leur applicati
 
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art.
+	  - Loi n°2017-257 du 28 février 2017 - art. 7
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L3131-1
-	  - Code général des collectivités territoriales - art. L3411-2 (V)
-	  - Code général des collectivités territoriales - art. L3611-3 (V)
-	  - Code général des collectivités territoriales - art. L5421-2 (V)
+	  - Code général des collectivités territoriales - art. L3611-3
+	  - Code général des collectivités territoriales - art. L5421-2
 
 
 #### Section 3 : Actes des régions et de leurs établissements publics
